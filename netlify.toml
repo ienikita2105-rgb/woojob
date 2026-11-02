@@ -1,4 +1,5 @@
 [build]
+  command = "node build-vacancies.js"
   publish = "."
 
 [[headers]]
