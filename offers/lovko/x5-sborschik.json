@@ -1,0 +1,32 @@
+{
+  "source": "Lovko",
+  "company": "X5 Доставка",
+  "logo": "images/x5.png",
+  "partnerType": "lead",
+  "partnerReward": "400 ₽",
+  "defaults": {
+    "prof": "Логистика",
+    "details": "Сборка заказов в дарксторах X5. Москва и Санкт-Петербург.",
+    "exp": "Без опыта",
+    "format": "Полная занятость",
+    "schedule": "Сменный",
+    "scheduleNote": "26 дарксторов в Москве, 8 в СПб",
+    "tags": ["noExperience", "warehouse", "picker"],
+    "pop": 82
+  },
+  "vacancies": [
+    {
+      "id": "x5-dostavka-sborschik",
+      "position": "Сборщик заказов",
+      "salaryTo": 70000,
+      "salaryNote": "до 70 000 ₽/мес",
+      "cities": [],
+      "addressCities": ["moskva", "sankt-peterburg"],
+      "addresses": {
+        "moskva": ["26 адресов дарксторов"],
+        "sankt-peterburg": ["8 адресов дарксторов"]
+      },
+      "partnerUrl": null
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "source": "Lovko",
+  "company": "Ozon",
+  "logo": "images/ozon.png",
+  "partnerType": "lead",
+  "partnerReward": "500 ₽",
+  "defaults": {
+    "prof": "Логистика",
+    "details": "Доставка заказов Ozon на автомобиле.",
+    "exp": "Без опыта",
+    "tags": ["courier", "driver", "car", "noExperience"],
+    "pop": 80
+  },
+  "vacancies": [
+    {
+      "id": "ozon-voditel-vakhta-avto-kompanii",
+      "position": "Водитель доставки на авто компании (вахта)",
+      "cities": [],
+      "vahta": true,
+      "vahtaRegions": ["moskva","moskovskaya-oblast"],
+      "format": "Вахта",
+      "schedule": "Вахта",
+      "salaryTo": 286000,
+      "salaryNote": "11 000 ₽/день, ~286 000 ₽/мес",
+      "tags": ["vahta"],
+      "partnerUrl": null
+    },
+    {
+      "id": "ozon-voditel-vakhta-lichnoe-avto",
+      "position": "Водитель доставки на личном авто (вахта)",
+      "cities": [],
+      "vahta": true,
+      "vahtaRegions": ["moskva","moskovskaya-oblast"],
+      "format": "Вахта",
+      "schedule": "Вахта",
+      "salaryTo": 286000,
+      "salaryNote": "11 000 ₽/день, ~286 000 ₽/мес",
+      "tags": ["vahta"],
+      "partnerUrl": null
+    },
+    {
+      "id": "ozon-voditel-pargolovo",
+      "position": "Водитель доставки на личном авто (Парголово)",
+      "cities": ["sankt-peterburg"],
+      "format": "Полная занятость",
+      "schedule": "Сменный",
+      "salaryFrom": 180000, "salaryTo": 260000,
+      "vehicleRequirements": "объём багажника от 1000 л",
+      "partnerUrl": null
+    },
+    {
+      "id": "ozon-voditel-novosibirsk",
+      "position": "Водитель-экспедитор (международные перевозки, Новосибирск)",
+      "cities": ["novosibirsk"],
+      "format": "Полная занятость",
+      "schedule": "Сменный",
+      "salaryFrom": 200000, "salaryTo": 200000,
+      "requirements": ["Права кат. CE", "Опыт от 1 года"],
+      "partnerUrl": null
+    },
+    {
+      "id": "ozon-voditel-habarovsk",
+      "position": "Водитель-экспедитор (Хабаровск)",
+      "cities": ["habarovsk"],
+      "format": "Полная занятость",
+      "schedule": "Сменный",
+      "salaryFrom": 147000, "salaryTo": 294000,
+      "requirements": ["Права кат. CE", "Опыт от 1 года"],
+      "partnerUrl": null
+    },
+    {
+      "id": "ozon-voditel-pushkino",
+      "position": "Водитель-экспедитор кат. С (Пушкино)",
+      "cities": ["pushkino"],
+      "format": "Полная занятость",
+      "schedule": "Сменный",
+      "salaryTo": 294000,
+      "requirements": ["Права кат. C или Е", "Опыт от 6 мес."],
+      "partnerUrl": null
+    }
+  ]
+}

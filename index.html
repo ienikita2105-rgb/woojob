@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>WooJob — найди работу мечты</title>
+<meta name="description" content="WooJob — актуальные вакансии от работодателей. Удобный поиск, фильтры и быстрый переход к отклику.">
+<link rel="icon" href="images/logo.png" type="image/png">
+<link rel="stylesheet" href="styles.css">
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function(m,e,t,r,i,k,a){
+        m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+        m[i].l=1*new Date();
+        for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+        k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)
+    })(window, document,'script','https://mc.yandex.ru/metrika/tag.js?id=113810497', 'ym');
+    ym(113810497, 'init', {ssr:false, webvisor:true, clickmap:true, ecommerce:"dataLayer", referrer: document.referrer, url: location.href, accurateTrackBounce:true, trackLinks:true});
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/113810497" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+</head>
+<body>
+
+<div class="bg-blobs" aria-hidden="true">
+  <div class="blob blob-1"></div>
+  <div class="blob blob-2"></div>
+  <div class="blob blob-3"></div>
+</div>
+
+<header class="site-header">
+  <div class="container nav">
+    <a href="index.html" class="logo">
+      <img src="images/logo.png" alt="WooJob" class="logo-img">
+    </a>
+    <nav class="nav-links" aria-label="Меню">
+      <a href="#catalog">Вакансии</a>
+      <a href="#how">Как это работает</a>
+      <a href="#faq">Вопросы</a>
+    </nav>
+    <div class="nav-actions">
+      <button class="icon-btn burger" id="burger" aria-label="Меню" aria-expanded="false">☰</button>
+    </div>
+  </div>
+  <div class="mobile-menu" id="mobileMenu">
+    <a href="#catalog">Вакансии</a>
+    <a href="#how">Как это работает</a>
+    <a href="#faq">Вопросы</a>
+  </div>
+</header>
+
+<main>
+<section class="hero">
+  <div class="container">
+    <h1 class="hero-title reveal">Найди работу, которая <br><span class="accent">подходит именно тебе</span></h1>
+    <p class="hero-sub reveal">Актуальные вакансии от проверенных работодателей. Выбирай по городу, опыту, графику и зарплате — откликайся в один клик.</p>
+
+    <form class="search reveal" id="searchForm" novalidate>
+      <input type="text" id="qInput" placeholder="Профессия, компания или город" aria-label="Поиск">
+      <input type="text" id="cityInput" placeholder="Город (например: Казань)" aria-label="Город">
+      <button class="btn btn-primary" id="searchBtn" type="submit">Найти</button>
+    </form>
+
+    <div class="chips reveal" id="quickChips">
+      <button class="chip" type="button" data-tag="remote">Удалённо</button>
+      <button class="chip" type="button" data-tag="for-you">Без опыта</button>
+      <button class="chip" type="button" data-tag="part-time">Подработка</button>
+      <button class="chip" type="button" data-tag="shift">Вахта</button>
+      <button class="chip" type="button" data-tag="it">IT</button>
+    </div>
+  </div>
+</section>
+
+<div class="filters-wrap">
+  <div class="container">
+    <div class="filters" id="filtersRow">
+      <select id="fProf" aria-label="Профессия"><option value="">Профессия: любая</option></select>
+      <select id="fCity" aria-label="Город"><option value="">Город: любой</option></select>
+      <select id="fExp" aria-label="Опыт">
+        <option value="">Опыт: любой</option>
+        <option>Без опыта</option><option>1–3 года</option><option>3–6 лет</option><option>6+ лет</option>
+      </select>
+      <select id="fFormat" aria-label="Формат">
+        <option value="">Формат: любой</option>
+        <option>Полная занятость</option><option>Частичная занятость</option>
+        <option>Удалённо</option><option>Гибрид</option><option>Вахта</option>
+        <option>Стажировка</option><option>Подработка</option>
+      </select>
+      <select id="fSchedule" aria-label="График">
+        <option value="">График: любой</option>
+        <option>5/2</option><option>2/2</option><option>Сменный</option><option>Гибкий</option><option>Свободный</option>
+      </select>
+      <label class="salary-range" title="Минимальная зарплата">
+        от <input type="range" id="fSalary" min="0" max="300000" step="10000" value="0">
+        <b id="salaryOut">0 ₽</b>
+      </label>
+      <select id="fSort" aria-label="Сортировка">
+        <option value="relevant">По релевантности</option>
+        <option value="salary-desc">Зарплата ↓</option>
+        <option value="salary-asc">Зарплата ↑</option>
+      </select>
+      <button class="reset" id="resetBtn" type="button">Сбросить</button>
+    </div>
+    <button class="btn btn-ghost btn-sm mobile-filter-toggle" id="mobileFilterToggle" aria-expanded="false">Фильтры</button>
+  </div>
+</div>
+
+<section class="catalog container" id="catalog">
+  <div class="catalog-head reveal">
+    <h2>Свежие вакансии</h2>
+    <span class="count" id="countLabel" aria-live="polite">—</span>
+    <button class="fav-toggle" id="favToggle" type="button" aria-pressed="false">♥ Избранное</button>
+  </div>
+  <div class="grid" id="grid"></div>
+  <div class="empty" id="empty" hidden aria-live="polite"></div>
+  <div class="load-more"><button class="btn btn-ghost" id="loadMore">Показать ещё</button></div>
+</section>
+
+<section class="block block-soft" id="how">
+  <div class="container">
+    <h2 class="reveal">Как это работает</h2>
+    <div class="steps">
+      <div class="step reveal"><div class="num">1</div><h3>Отберите вакансии</h3><p>Используйте фильтры по профессии, городу и формату.</p></div>
+      <div class="step reveal"><div class="num">2</div><h3>Откликнитесь</h3><p>Нажмите «Откликнуться» — откроется анкета работодателя.</p></div>
+      <div class="step reveal"><div class="num">3</div><h3>Дождитесь ответа</h3><p>Сроки ответа зависят от конкретного работодателя.</p></div>
+    </div>
+  </div>
+</section>
+
+<section class="block" id="faq">
+  <div class="container">
+    <h2 class="reveal">Вопросы и ответы</h2>
+    <div class="faq reveal">
+      <details><summary>Что такое WooJob?</summary><p>Мы — витрина актуальных вакансий. Мы не собираем анкеты сами, а перенаправляем вас на страницу работодателя.</p></details>
+      <details><summary>Сколько стоит отклик?</summary><p>Бесплатно. Мы не берём денег за просмотр и переход к анкете.</p></details>
+      <details><summary>Нужна ли регистрация?</summary><p>Для просмотра — нет. Анкету вы заполняете на стороне работодателя.</p></details>
+    </div>
+  </div>
+</section>
+
+<section class="block block-soft">
+  <div class="container">
+    <div class="disclaimer reveal">
+      <b>Дисклеймер.</b> Сервис бесплатно предоставляет информацию о вакансиях. Условия трудоустройства, зарплата и график зависят от конкретного работодателя. Информация не является офертой. По всем вопросам пишите на: <strong>supportwoojob@gmail.com</strong>.
+    </div>
+  </div>
+</section>
+</main>
+
+<footer class="site-footer">
+  <div class="container foot-grid">
+    <div>
+      <a href="index.html" class="logo">
+        <img src="images/logo.png" alt="WooJob" class="logo-img">
+      </a>
+      <p class="foot-note">Свежие вакансии от проверенных компаний.</p>
+    </div>
+    <div><h4>Проект</h4><a href="#">О нас</a><a href="#">Работодателям</a><a href="#">Партнёрам</a></div>
+    <div><h4>Документы</h4><a href="privacy.html">Соглашение</a><a href="privacy.html">Конфиденциальность</a><a href="privacy.html">Cookie</a></div>
+    <div><h4>Контакты</h4><a href="#" id="copyEmail" data-email="supportwoojob@gmail.com" style="text-decoration:none">supportwoojob@gmail.com</a></div>
+  </div>
+  <div class="container foot-bottom">
+    <span>© <span id="year"></span> WooJob. Все права защищены.</span>
+  </div>
+</footer>
+
+<button id="scrollTopBtn" class="scroll-top" aria-label="Наверх">↑</button>
+
+<div id="toast" class="toast" role="status" aria-live="polite"></div>
+
+<script src="script.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,42 @@
+{
+  "source": "Pampadu",
+  "company": "МТС",
+  "logo": "images/mts.png",
+  "partnerType": "hired",
+  "partnerReward": "6493 ₽ (СЗ) / 6060 ₽ (ФЗ)",
+  "defaults": {
+    "prof": "Поддержка",
+    "exp": "Без опыта",
+    "format": "Удалённо",
+    "schedule": "Гибкий",
+    "tags": ["remote", "office", "noExperience"],
+    "isRemote": true,
+    "citizenship": "rf",
+    "ageFrom": 18,
+    "ageTo": 45,
+    "requirements": [
+      "Гражданство РФ",
+      "Паспорт РФ (для молодых людей — приписное или военный билет)"
+    ],
+    "details": "Консультирование клиентов по телефону. Удалённо. ДМС с первого месяца, бесплатная сотовая связь, гибкий график.",
+    "pop": 60
+  },
+  "vacancies": [
+    {
+      "id": "mts-operator-call-centra",
+      "position": "Оператор call-центра",
+      "salaryFrom": 51500,
+      "salaryTo": 61000,
+      "salaryNote": "от 51 500 до 61 000 ₽/мес (оклад + премии)",
+      "cities": [
+        "bryansk","velikiy-novgorod","vladimir","volgograd","voronezh",
+        "yoshkar-ola","kazan","kaluga","kostroma","krasnodar","kursk",
+        "lipetsk","moskva","nizhniy-novgorod","pskov","ryazan","samara",
+        "sankt-peterburg","smolensk","tver","yaroslavl","ulyanovsk","orel",
+        "orenburg","saratov","vologda","izhevsk","barnaul","ekaterinburg",
+        "kemerovo","novosibirsk","omsk","tomsk","tyumen","ufa","perm"
+      ],
+      "partnerUrl": null
+    }
+  ]
+}

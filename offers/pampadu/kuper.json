@@ -1,0 +1,102 @@
+{
+  "source": "Pampadu",
+  "company": "Купер",
+  "logo": "images/kuper.png",
+  "partnerType": "hired_plus_activity",
+  "partnerReward": "11200 ₽",
+  "defaults": {
+    "prof": "Логистика",
+    "exp": "Без опыта",
+    "format": "Полная занятость",
+    "schedule": "Гибкий",
+    "salaryTo": 308520,
+    "salaryNote": "до 308 520 ₽/мес (170–826 ₽/час)",
+    "cities": [
+      "moskva","sankt-peterburg","novosibirsk","ekaterinburg","kazan",
+      "nizhniy-novgorod","chelyabinsk","omsk","samara","rostov-na-donu",
+      "ufa","krasnoyarsk","voronezh","perm","volgograd"
+    ],
+    "tags": ["noExperience"],
+    "referralBonus": "500–25000 ₽",
+    "bonuses": ["Бонусы за выходы"],
+    "pop": 68
+  },
+  "vacancies": [
+    {
+      "id": "kuper-voditel-kurier-planovaya",
+      "position": "Водитель-курьер (Плановая)",
+      "details": "Доставка заказов из магазинов-партнёров.",
+      "tags": ["courier", "driver", "car"],
+      "requirements": ["Личный автомобиль"],
+      "vehicleRequirements": "Личный автомобиль",
+      "partnerUrl": null
+    },
+    {
+      "id": "kuper-voditel-kurier-gruzovoy",
+      "position": "Водитель-курьер (грузовой)",
+      "details": "Доставка заказов из магазинов-партнёров.",
+      "tags": ["courier", "driver", "car"],
+      "requirements": ["Грузовой автомобиль"],
+      "vehicleRequirements": "Грузовой автомобиль",
+      "partnerUrl": null
+    },
+    {
+      "id": "kuper-voditel-arendnoe-avto",
+      "position": "Водитель-курьер на арендном авто",
+      "details": "Доставка заказов из магазинов-партнёров.",
+      "tags": ["courier", "driver", "car"],
+      "requirements": ["Арендный автомобиль"],
+      "vehicleRequirements": "Арендный автомобиль",
+      "partnerUrl": null
+    },
+    {
+      "id": "kuper-sborschik-planovaya",
+      "position": "Сборщик заказов (Плановая)",
+      "details": "Доставка заказов из магазинов-партнёров.",
+      "tags": ["warehouse", "picker"],
+      "partnerUrl": null
+    },
+    {
+      "id": "kuper-sborschik-nochnoy",
+      "position": "Сборщик заказов (ночной)",
+      "details": "Доставка заказов из магазинов-партнёров.",
+      "schedule": "Ночной",
+      "tags": ["warehouse", "picker", "shift"],
+      "partnerUrl": null
+    },
+    {
+      "id": "kuper-velokurier-bystraya",
+      "position": "Велокурьер (Быстрая)",
+      "details": "Доставка заказов из магазинов-партнёров.",
+      "format": "Подработка",
+      "tags": ["courier", "bike", "partTime"],
+      "partnerUrl": null
+    },
+    {
+      "id": "kuper-voditel-kurier-bystraya",
+      "position": "Водитель-курьер (Быстрая)",
+      "details": "Доставка заказов из магазинов-партнёров.",
+      "tags": ["courier", "driver", "car"],
+      "requirements": ["Личный автомобиль"],
+      "vehicleRequirements": "Личный автомобиль",
+      "partnerUrl": null
+    },
+    {
+      "id": "kuper-voditel-arendnoe-avto-bystraya",
+      "position": "Водитель-курьер на арендном авто (Быстрая)",
+      "details": "Доставка заказов из магазинов-партнёров.",
+      "tags": ["courier", "driver", "car"],
+      "requirements": ["Арендный автомобиль"],
+      "vehicleRequirements": "Арендный автомобиль",
+      "partnerUrl": null
+    },
+    {
+      "id": "kuper-peshiy-kurier-bystraya",
+      "position": "Пеший курьер (Быстрая)",
+      "details": "Доставка заказов из магазинов-партнёров.",
+      "format": "Подработка",
+      "tags": ["courier", "walk", "partTime"],
+      "partnerUrl": null
+    }
+  ]
+}

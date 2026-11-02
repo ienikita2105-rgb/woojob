@@ -1,0 +1,43 @@
+{
+  "source": "Pampadu",
+  "company": "Яндекс.Еда / Яндекс.Лавка",
+  "logo": "images/yandex-eda.png",
+  "partnerType": "hired_plus_activity",
+  "partnerReward": "до 44 000 ₽",
+  "defaults": {
+    "prof": "Логистика",
+    "exp": "Без опыта",
+    "format": "Подработка",
+    "schedule": "Гибкий",
+    "details": "Доставка заказов в сервисе Яндекс.Еда / Яндекс.Лавка через партнёра сервиса. Гибкий график.",
+    "tags": ["noExperience", "courier", "partTime"],
+    "requirements": [
+      "Смартфон: Android 8.0+ или iPhone iOS 16.5+",
+      "Удостоверение личности"
+    ],
+    "citizenship": "rf_eaes",
+    "pop": 90
+  },
+  "vacancies": [
+    {
+      "id": "yandex-eda-kurier-peshiy-velo",
+      "position": "Курьер (пеший / вело)",
+      "salaryTo": 187000,
+      "salaryNote": "до 8 500 ₽/день",
+      "tags": ["walk", "bike"],
+      "requirements": ["Возраст: пеший/вело — от 18 до 55 лет"],
+      "vehicleRequirements": "Пеший / велосипед",
+      "partnerUrl": null
+    },
+    {
+      "id": "yandex-eda-kurier-avto",
+      "position": "Автокурьер",
+      "salaryTo": 187000,
+      "salaryNote": "до 8 500 ₽/день",
+      "tags": ["driver", "car"],
+      "requirements": ["Возраст: авто — от 18 до 65 лет"],
+      "vehicleRequirements": "Личный автомобиль",
+      "partnerUrl": null
+    }
+  ]
+}

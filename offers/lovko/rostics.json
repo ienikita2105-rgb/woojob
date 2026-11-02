@@ -1,0 +1,53 @@
+{
+  "source": "Lovko",
+  "company": "ROSTIC'S",
+  "logo": "images/rostics.png",
+  "partnerType": "lead",
+  "partnerReward": "500 ₽",
+  "defaults": {
+    "prof": "Общепит",
+    "details": "Работа в ресторане быстрого питания. Кассир, повар, комплектовщик.",
+    "exp": "Без опыта",
+    "format": "Полная занятость",
+    "schedule": "Сменный",
+    "tags": ["food", "noExperience", "shift"],
+    "citizenship": "rf_eaes_uz_tj",
+    "pop": 72
+  },
+  "vacancies": [
+    {
+      "id": "rostics-sotrudnik-moskva",
+      "position": "Сотрудник ресторана (Москва)",
+      "cities": ["moskva"],
+      "salaryFrom": 81900, "salaryTo": 144000,
+      "scheduleNote": "13 ресторанов",
+      "partnerUrl": null
+    },
+    {
+      "id": "rostics-sotrudnik-mo",
+      "position": "Сотрудник ресторана (Московская область)",
+      "cities": ["balashiha","himki","mytischi","korolev","lyubercy","krasnogorsk","dolgoprudnyy","odincovo","podolsk","domodedovo","sergiev-posad","schelkovo","pushkino","noginsk","orehovo-zuevo","ramenskoe","zhukovskiy","vidnoe","reutov","kotelniki","elektrostal","voskresensk","kolomna","egorevsk","serpukhov","chehov","klin","dmitrov","lobnya"],
+      "regions": ["moskovskaya-oblast"],
+      "salaryFrom": 60975, "salaryTo": 126000,
+      "scheduleNote": "47 ресторанов",
+      "partnerUrl": null
+    },
+    {
+      "id": "rostics-sotrudnik-hmao",
+      "position": "Сотрудник ресторана (ХМАО)",
+      "cities": ["surgut","nizhnevartovsk","hanty-mansiysk"],
+      "salaryFrom": 62625, "salaryTo": 119000,
+      "scheduleNote": "13 ресторанов",
+      "partnerUrl": null
+    },
+    {
+      "id": "rostics-sotrudnik-amur",
+      "position": "Сотрудник ресторана (Амурская область)",
+      "cities": ["blagoveshchensk"],
+      "regions": ["amurskaya-oblast"],
+      "salaryFrom": 60000, "salaryTo": 92000,
+      "scheduleNote": "1 ресторан",
+      "partnerUrl": null
+    }
+  ]
+}

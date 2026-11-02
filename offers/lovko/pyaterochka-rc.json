@@ -1,0 +1,329 @@
+{
+  "source": "Lovko",
+  "company": "Пятёрочка",
+  "logo": "images/pyaterochka.png",
+  "partnerType": "hired",
+  "partnerReward": "до 12000 ₽",
+  "defaults": {
+    "prof": "Склад",
+    "details": "Работа на распределительном центре. Приёмка, сортировка, комплектация товара.",
+    "exp": "Без опыта",
+    "format": "Полная занятость",
+    "schedule": "Сменный",
+    "tags": ["warehouse", "noExperience", "shift"],
+    "pop": 80
+  },
+  "vacancies": [
+    {
+      "id": "pyaterochka-rc-volgograd",
+      "position": "Оператор склада (РЦ Волгоград)",
+      "cities": ["volgograd","volzhskiy","gorodishche","caricyn"],
+      "salaryFrom": 87400, "salaryTo": 102000,
+      "rcName": "РЦ 5 Волгоград", "warehouseCity": "volgograd",
+      "partnerUrl": null
+    },
+    {
+      "id": "pyaterochka-rc-elabuga",
+      "position": "Оператор склада (РЦ Елабуга)",
+      "cities": ["elabuga","naberezhnye-chelny","mendeleevsk","nizhnekamsk","mamadysh"],
+      "salaryFrom": 115000, "salaryTo": 130000,
+      "rcName": "РЦ Елабуга", "warehouseCity": "elabuga",
+      "partnerUrl": null
+    },
+    {
+      "id": "pyaterochka-rc-kazan",
+      "position": "Оператор склада (РЦ Казань)",
+      "cities": ["kazan","volzhsk","zelenodolsk","osinovo","vasilevo","dubrovka","novochuvashskiy","oktyabrskiy","naberezhnye-morkvashi"],
+      "salaryFrom": 105000, "salaryTo": 140000,
+      "rcName": "РЦ Казань", "warehouseCity": "zelenodolsk",
+      "partnerUrl": null
+    },
+    {
+      "id": "pyaterochka-rc-krasnoyarsk",
+      "position": "Оператор склада (РЦ Красноярск)",
+      "cities": ["krasnoyarsk","berezovka","sosnovoborsk","emelyanovo"],
+      "salaryFrom": 90000, "salaryTo": 130000,
+      "rcName": "РЦ Красноярск", "warehouseCity": "startsevo",
+      "partnerUrl": null
+    },
+    {
+      "id": "pyaterochka-rc-tolmachevo",
+      "position": "Оператор склада (РЦ Толмачево)",
+      "cities": ["novosibirsk","ob","kochenevo","tolmachevo","krasnoglinnoye","krasnomayskiy","prokudskoe","chik","krasnyy-vostok"],
+      "salaryFrom": 105000, "salaryTo": 143000,
+      "rcName": "РЦ Толмачево", "warehouseCity": "ob",
+      "partnerUrl": null
+    },
+    {
+      "id": "pyaterochka-rc-adamant",
+      "position": "Оператор склада (РЦ Адамант)",
+      "cities": ["shushary","pushkin","kolpino","metallostroy","sankt-peterburg"],
+      "salaryFrom": 133000, "salaryTo": 150000,
+      "rcName": "РЦ Адамант", "warehouseCity": "shushary",
+      "partnerUrl": null
+    },
+    {
+      "id": "pyaterochka-rc-bogorodsk",
+      "position": "Оператор склада (РЦ Богородск)",
+      "cities": ["noginsk","orehovo-zuevo","elektrostal","pavlovskiy-posad","balashiha","chernogolovka","elektrogorsk","likino-dulevo"],
+      "salaryFrom": 130000, "salaryTo": 156000,
+      "rcName": "РЦ Богородск", "warehouseCity": "noginsk",
+      "bonuses": ["Бонусы за выходы"],
+      "travelCompensation": "Транспорт от РЦ",
+      "tags": ["transport"],
+      "partnerUrl": null
+    },
+    {
+      "id": "pyaterochka-rc-velikiy-novgorod",
+      "position": "Оператор склада (РЦ Великий Новгород)",
+      "cities": ["velikiy-novgorod","trubichino","podberezye","chudovo","proletariy","novoselicy","krestcy"],
+      "salaryFrom": 90000, "salaryTo": 122000,
+      "rcName": "РЦ Великий Новгород", "warehouseCity": "chechulino",
+      "partnerUrl": null
+    },
+    {
+      "id": "pyaterochka-rc-vidnoe",
+      "position": "Оператор склада (РЦ Видное)",
+      "cities": ["vidnoe"],
+      "regions": ["moskovskaya-oblast"],
+      "salaryFrom": 120100, "salaryTo": 144120,
+      "rcName": "РЦ Видное", "warehouseCity": "vidnoe",
+      "bonuses": ["Бонусы за выходы"],
+      "travelCompensation": "Транспорт от РЦ",
+      "tags": ["transport"],
+      "partnerUrl": null
+    },
+    {
+      "id": "pyaterochka-rc-voronezh-ramon",
+      "position": "Оператор склада (РЦ Воронеж-Рамонь)",
+      "cities": ["voronezh","semiluki","yamnoe","novaya-usman","otradnoe"],
+      "salaryFrom": 93000, "salaryTo": 150000,
+      "rcName": "РЦ Воронеж-Рамонь", "warehouseCity": "aydarovskoe",
+      "partnerUrl": null
+    },
+    {
+      "id": "pyaterochka-rc-vorsino",
+      "position": "Оператор склада (РЦ Ворсино)",
+      "cities": ["naro-fominsk","ermolino","borovsk","balabanovo","belousovo","obninsk","zhukov","maloyaroslavets","kamenskoe"],
+      "regions": ["moskovskaya-oblast","kaluzhskaya-oblast"],
+      "salaryFrom": 114000, "salaryTo": 136800,
+      "rcName": "РЦ Ворсино", "warehouseCity": "vorsino",
+      "bonuses": ["Бонусы за выходы"],
+      "travelCompensation": "Транспорт от РЦ",
+      "tags": ["transport"],
+      "partnerUrl": null
+    },
+    {
+      "id": "pyaterochka-rc-vyatka",
+      "position": "Оператор склада (РЦ Вятка)",
+      "cities": ["kirov","kirovo-chepetsk","shutovschina","kstinino","dresvyanovo","fateevo"],
+      "salaryFrom": 80000, "salaryTo": 140000,
+      "rcName": "РЦ Вятка", "warehouseCity": "kirovo-chepetsk",
+      "partnerUrl": null
+    },
+    {
+      "id": "pyaterochka-rc-dzerzhinsk",
+      "position": "Оператор склада (РЦ Дзержинск)",
+      "cities": ["dzerzhinsk"],
+      "salaryFrom": 117000, "salaryTo": 155000,
+      "rcName": "РЦ Дзержинск", "warehouseCity": "dzerzhinsk",
+      "partnerUrl": null
+    },
+    {
+      "id": "pyaterochka-rc-ekaterinburg",
+      "position": "Оператор склада (РЦ Екатеринбург)",
+      "cities": ["ekaterinburg","aramil","beloyarskiy","berezovskiy","degtyarsk","polevskoy","sysert"],
+      "salaryFrom": 105000, "salaryTo": 140000,
+      "rcName": "РЦ Екатеринбург", "warehouseCity": "ekaterinburg",
+      "partnerUrl": null
+    },
+    {
+      "id": "pyaterochka-rc-kemerovo",
+      "position": "Оператор склада (РЦ Кемерово)",
+      "cities": ["kemerovo"],
+      "salaryFrom": 87500, "salaryTo": 97000,
+      "rcName": "РЦ Кемерово", "warehouseCity": "kemerovo",
+      "partnerUrl": null
+    },
+    {
+      "id": "pyaterochka-rc-kstovo",
+      "position": "Оператор склада (РЦ Кстово)",
+      "cities": ["nizhniy-novgorod","kstovo","malaya-elnya","zimenki","bezvodnoe"],
+      "salaryFrom": 110000, "salaryTo": 133000,
+      "rcName": "РЦ Кстово", "warehouseCity": "kstovo",
+      "partnerUrl": null
+    },
+    {
+      "id": "pyaterochka-rc-tambov",
+      "position": "Оператор склада (РЦ Тамбов)",
+      "cities": ["tambov","kotovsk","senko","belyy-bak","pokrovo-prigorodnoe"],
+      "salaryFrom": 85800, "salaryTo": 120000,
+      "rcName": "РЦ Тамбов", "warehouseCity": "kotovsk",
+      "partnerUrl": null
+    },
+    {
+      "id": "pyaterochka-rc-kuzneck",
+      "position": "Оператор склада (РЦ Кузнецк)",
+      "cities": ["kuzneck"],
+      "salaryFrom": 84400, "salaryTo": 110000,
+      "rcName": "РЦ Кузнецк", "warehouseCity": "kuzneck",
+      "partnerUrl": null
+    },
+    {
+      "id": "pyaterochka-rc-kursk",
+      "position": "Оператор склада (РЦ Курск)",
+      "cities": ["kursk","yubileyniy","halino"],
+      "salaryFrom": 91800, "salaryTo": 183600,
+      "rcName": "РЦ Курск", "warehouseCity": "yubileyniy",
+      "partnerUrl": null
+    },
+    {
+      "id": "pyaterochka-rc-lobnya",
+      "position": "Оператор склада (РЦ Лобня)",
+      "cities": ["dmitrov","yahroma","dedenevo","iksha","nekrasovskiy","lobnya","dolgoprudnyy","himki"],
+      "regions": ["moskovskaya-oblast"],
+      "salaryFrom": 125000, "salaryTo": 150000,
+      "rcName": "РЦ Лобня", "warehouseCity": "lobnya",
+      "bonuses": ["Бонусы за выходы"],
+      "travelCompensation": "Транспорт от РЦ",
+      "tags": ["transport"],
+      "partnerUrl": null
+    },
+    {
+      "id": "pyaterochka-rc-moskva-sever",
+      "position": "Оператор склада (РЦ Москва-Север)",
+      "cities": ["solnechnogorsk","zelenograd","himki","putilkovo","nekrasovskiy","iksha","mendeleevo","andreevka","mironcevo","klin","moskva"],
+      "regions": ["moskovskaya-oblast"],
+      "salaryFrom": 135000, "salaryTo": 162000,
+      "rcName": "РЦ Москва-Север", "warehouseCity": "solnechnogorsk",
+      "bonuses": ["Бонусы за выходы"],
+      "travelCompensation": "Транспорт от РЦ",
+      "tags": ["transport"],
+      "partnerUrl": null
+    },
+    {
+      "id": "pyaterochka-rc-nevinnomyssk",
+      "position": "Оператор склада (РЦ Невинномысск)",
+      "cities": ["nevinnomyssk","kochubeevskoe","stavropol","mihaylovsk","ivanovskoe","svetlograd","vladikavkaz","cherkessk","armavir","izobilnyy"],
+      "salaryFrom": 102600, "salaryTo": 130000,
+      "rcName": "РЦ Невинномысск", "warehouseCity": "nevinnomyssk",
+      "partnerUrl": null
+    },
+    {
+      "id": "pyaterochka-rc-novaya-riga",
+      "position": "Оператор склада (РЦ Новая Рига)",
+      "cities": ["dedovsk","nahabino","krasnogorsk","odincovo","zvenigorod","nemchinovka","novoivanovskoe","vlasiha","moskva"],
+      "regions": ["moskovskaya-oblast"],
+      "salaryFrom": 125000, "salaryTo": 150000,
+      "rcName": "РЦ Новая Рига", "warehouseCity": "krasnogorsk",
+      "bonuses": ["Бонусы за выходы"],
+      "travelCompensation": "Транспорт от РЦ",
+      "tags": ["transport"],
+      "partnerUrl": null
+    },
+    {
+      "id": "pyaterochka-rc-perm-2",
+      "position": "Оператор склада (РЦ Пермь 2)",
+      "cities": ["krasnokamsk","perm","kondratovo","mysy","nytva","stryapunyata","mayskiy","ust-syny"],
+      "salaryFrom": 99000, "salaryTo": 132000,
+      "rcName": "РЦ Пермь 2", "warehouseCity": "kultaevo",
+      "partnerUrl": null
+    },
+    {
+      "id": "pyaterochka-rc-petrozavodsk",
+      "position": "Оператор склада (РЦ Петрозаводск)",
+      "cities": ["petrozavodsk"],
+      "salaryFrom": 81000, "salaryTo": 140000,
+      "rcName": "РЦ Петрозаводск", "warehouseCity": "petrozavodsk",
+      "partnerUrl": null
+    },
+    {
+      "id": "pyaterochka-rc-podolsk",
+      "position": "Оператор склада (РЦ Подольск)",
+      "cities": ["scherbinka","moskva","drozhzhino","butovo","bykovo","znamya-oktyabrya","erino","podolsk","devyatskoe","dubrovicy"],
+      "regions": ["moskovskaya-oblast"],
+      "salaryFrom": 130000, "salaryTo": 156000,
+      "rcName": "РЦ Подольск", "warehouseCity": "scherbinka",
+      "bonuses": ["Бонусы за выходы"],
+      "travelCompensation": "Транспорт от РЦ",
+      "tags": ["transport"],
+      "partnerUrl": null
+    },
+    {
+      "id": "pyaterochka-rc-rostov",
+      "position": "Оператор склада (РЦ Ростов)",
+      "cities": ["rostov-na-donu","bataysk","zernograd"],
+      "salaryFrom": 101800, "salaryTo": 110300,
+      "rcName": "РЦ Ростов", "warehouseCity": "hutor-lenina",
+      "partnerUrl": null
+    },
+    {
+      "id": "pyaterochka-rc-ryazan",
+      "position": "Оператор склада (РЦ Рязань)",
+      "cities": ["ryazan","rybnoe"],
+      "salaryFrom": 105000, "salaryTo": 135000,
+      "rcName": "РЦ Рязань", "warehouseCity": "zeleninskie-dvoriki",
+      "bonuses": ["Бонусы за выходы"],
+      "travelCompensation": "Транспорт от РЦ",
+      "tags": ["transport"],
+      "partnerUrl": null
+    },
+    {
+      "id": "pyaterochka-rc-samara",
+      "position": "Оператор склада (РЦ Самара)",
+      "cities": ["novosemeykino","petra-dubrava","samara","stroykeramika","alekseevka","ust-kinelskiy","kinel","novokuybyshevsk","chapaevsk","voskresenka","verhnyaya-podstepnovka","bolshaya-glushica","bezenchuk","neftegorsk","bolshaya-chernigovka","buzuluk","pohvistnevo","hvorostyanka","kinel-cherkassy","mirnyy","ulyanovsk","obscharovka","novokurovka","borskoe","bogatoe","pugachev","pestravka","tolyatti","syzran","penza"],
+      "salaryFrom": 101000, "salaryTo": 116000,
+      "rcName": "РЦ Самара", "warehouseCity": "novosemeykino",
+      "partnerUrl": null
+    },
+    {
+      "id": "pyaterochka-rc-saratov",
+      "position": "Оператор склада (РЦ Саратов)",
+      "cities": ["saratov","engels","svetlyy","sokolovyy","krasnyy-oktyabr","dubki","vyazovka","oktyabrskiy-gorodok"],
+      "salaryFrom": 87500, "salaryTo": 113500,
+      "rcName": "РЦ Саратов", "warehouseCity": "storozhevka",
+      "partnerUrl": null
+    },
+    {
+      "id": "pyaterochka-rc-utkina-zavod",
+      "position": "Оператор склада (РЦ Уткина Заводь)",
+      "cities": ["staraya","sankt-peterburg"],
+      "regions": ["leningradskaya-oblast"],
+      "salaryFrom": 133000, "salaryTo": 170000,
+      "rcName": "РЦ Уткина Заводь", "warehouseCity": "sankt-peterburg",
+      "partnerUrl": null
+    },
+    {
+      "id": "pyaterochka-rc-ufa",
+      "position": "Оператор склада (РЦ Уфа)",
+      "cities": ["ufa","iglino","shaksha","russkiy-yurmash","sterlitamak","asha"],
+      "salaryFrom": 80000, "salaryTo": 150000,
+      "rcName": "РЦ Уфа", "warehouseCity": "ufa",
+      "partnerUrl": null
+    },
+    {
+      "id": "pyaterochka-rc-forpost",
+      "position": "Оператор склада (РЦ Форпост)",
+      "cities": ["chelyabinsk","krasnoe-pole","kazancevo","esaulskiy","novoe-pole","dolgoderеvenskoe"],
+      "salaryFrom": 90000, "salaryTo": 120000,
+      "rcName": "РЦ Форпост", "warehouseCity": "chelyabinsk",
+      "partnerUrl": null
+    },
+    {
+      "id": "pyaterochka-rc-yuzhny",
+      "position": "Оператор склада (РЦ Южный)",
+      "cities": ["adygeysk","krasnodar","novaya-adygeya","hutor-lenina","yablonovskiy","krasnenskiy","goryachiy-klyuch"],
+      "salaryFrom": 105500, "salaryTo": 130000,
+      "rcName": "РЦ Южный", "warehouseCity": "kochkin",
+      "partnerUrl": null
+    },
+    {
+      "id": "pyaterochka-rc-yaroslavl",
+      "position": "Оператор склада (РЦ Ярославль)",
+      "cities": ["yaroslavl","schedrino","dubki","krasnye-tkachi","kozmodemyansk","gavrilov-yam","kuznechiha","rostov","tutaev","bolshoe-selo"],
+      "salaryFrom": 90000, "salaryTo": 177500,
+      "rcName": "РЦ Ярославль", "warehouseCity": "yaroslavl",
+      "partnerUrl": null
+    }
+  ]
+}

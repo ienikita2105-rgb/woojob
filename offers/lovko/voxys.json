@@ -1,0 +1,53 @@
+{
+  "source": "Lovko",
+  "company": "VOXYS",
+  "logo": "images/voxys.png",
+  "partnerType": "hired",
+  "partnerReward": "7500 ₽",
+  "defaults": {
+    "prof": "Поддержка",
+    "details": "Консультирование клиентов по телефону. Обучение, гибкий график.",
+    "exp": "Без опыта",
+    "format": "Полная занятость",
+    "schedule": "Гибкий",
+    "tags": ["noExperience", "office"],
+    "citizenship": "rf",
+    "pop": 65
+  },
+  "vacancies": [
+    {
+      "id": "voxys-operator-call-centra-office",
+      "position": "Оператор колл-центра (офис)",
+      "cities": [
+        "barnaul","volgograd","kaliningrad","kaluga","kursk",
+        "nizhniy-tagil","orel","rostov-na-donu","saransk","taganrog","chelyabinsk"
+      ],
+      "salaryTo": 80000,
+      "salaryNote": "до 80 000 ₽/мес (оклад + премии)",
+      "partnerUrl": null
+    },
+    {
+      "id": "voxys-operator-call-centra-remote",
+      "position": "Оператор колл-центра (удалённо)",
+      "isRemote": true,
+      "format": "Удалённо",
+      "cities": [],
+      "regions": [
+        "moskovskaya-oblast","leningradskaya-oblast","tverskaya-oblast",
+        "vologodskaya-oblast","yaroslavskaya-oblast","belgorodskaya-oblast",
+        "novgorodskaya-oblast","kaliningradskaya-oblast","kaluzhskaya-oblast",
+        "lipetskaya-oblast","nizhegorodskaya-oblast","orlovskaya-oblast",
+        "pskovskaya-oblast","smolenskaya-oblast","tulskaya-oblast",
+        "bryanskaya-oblast","vladimirskaya-oblast","ivanovskaya-oblast",
+        "kostromskaya-oblast","ryazanskaya-oblast","voronezhskaya-oblast",
+        "kurskaya-oblast","tambovskaya-oblast","moskva","sankt-peterburg",
+        "volgogradskaya-oblast","saratovskaya-oblast","tatarstan",
+        "mordoviya","dagestan"
+      ],
+      "salaryTo": 80000,
+      "salaryNote": "до 80 000 ₽/мес (оклад + премии)",
+      "tags": ["remote"],
+      "partnerUrl": null
+    }
+  ]
+}

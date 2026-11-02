@@ -1,0 +1,55 @@
+{
+  "source": "Lovko",
+  "company": "X5 Доставка",
+  "logo": "images/x5.png",
+  "partnerType": "lead",
+  "partnerReward": "450 ₽",
+  "defaults": {
+    "prof": "Логистика",
+    "details": "Доставка заказов из дарксторов X5 на личном автомобиле.",
+    "exp": "Без опыта",
+    "format": "Полная занятость",
+    "schedule": "Гибкий",
+    "tags": ["noExperience", "courier", "driver", "car"],
+    "requirements": ["Личный автомобиль"],
+    "vehicleRequirements": "Личный автомобиль",
+    "pop": 85
+  },
+  "vacancies": [
+    {
+      "id": "x5-dostavka-voditel",
+      "position": "Водитель на личном авто",
+      "salaryTo": 90000,
+      "salaryNote": "до 90 000 ₽/мес",
+      "cities": [
+        "moskva","sankt-peterburg","blagoveshchensk","svobodnyy","astrakhan",
+        "belgorod","aleksandrovka","borisovka","veydelevka","dubovoe","korocha",
+        "novyy-oskol","proletarskiy","razumnoe","rakitnoe","severnyy","seretino",
+        "birabidzhan","smidovich","velikiy-novgorod","okulovka","valday",
+        "staraya-russa","vladimir","voronezh","ekaterinburg","yoshkar-ola",
+        "kaliningrad","neman","polessk","svetlyy","yantarnyy","kaluga",
+        "krasnoyarsk","lipetsk","elec","nizhnekamsk","nizhnevartovsk",
+        "nizhniy-novgorod","volodarsk","orel","naryshkino","bolshoy-kamen",
+        "dalnegorsk","pskov","dedovichi","dno","ostrov","strugi-krasnye",
+        "samara","saransk","smolensk","surgut","tver","tula","ulyanovsk","ufa",
+        "amursk","sovetskaya-gavan","solnechnyy","hanty-mansiysk","cherepovets",
+        "andreevka","boltino","brehovo","vidnoe","glinkovo","gribki","drozhzhino",
+        "dolgoprudnyy","domodedovo","zelenograd","korolev","kotelniki",
+        "krasnogorsk","lobnya","lunevo","lyubercy","manyuhino","moskovskiy",
+        "mytischi","odincovo","pervomayskiy","pirogovo","podolsk","pushkino",
+        "saburovo","sergiev-posad","skoropuskovskiy","soloslovo","himki",
+        "mescherino","makarovo","agalatovo","maloe-karlino","murino",
+        "poroshkino","telmana","ust-luga"
+      ],
+      "regions": [
+        "moskovskaya-oblast","leningradskaya-oblast","amurskaya-oblast",
+        "belgorodskaya-oblast","evreyskaya-ao","novgorodskaya-oblast",
+        "kaliningradskaya-oblast","kaluzhskaya-oblast","lipetskaya-oblast",
+        "nizhegorodskaya-oblast","orlovskaya-oblast","primorskiy-kray",
+        "pskovskaya-oblast","smolenskaya-oblast","tulskaya-oblast",
+        "habarovskiy-kray"
+      ],
+      "partnerUrl": null
+    }
+  ]
+}

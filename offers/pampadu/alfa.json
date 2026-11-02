@@ -1,0 +1,71 @@
+{
+  "source": "Pampadu",
+  "company": "Альфа-Банк",
+  "logo": "images/alfabank.png",
+  "partnerType": "hired",
+  "partnerReward": "614 ₽ (одобрен) / 5532 ₽ (трудоустройство)",
+  "defaults": {
+    "prof": "Финансы",
+    "salaryFrom": 60000,
+    "salaryTo": 90000,
+    "salaryNote": "до 90 000 ₽/мес (оклад + бонусы)",
+    "cities": ["moskva", "sankt-peterburg"],
+    "exp": "Без опыта",
+    "format": "Полная занятость",
+    "schedule": "Гибкий",
+    "tags": ["office", "noExperience", "driver"],
+    "citizenship": "rf_by_kz",
+    "ageFrom": 18,
+    "ageTo": 40,
+    "requirements": ["Без судимости", "Опрятный вид", "Без тату", "Грамотная речь"],
+    "vehicleRequirements": "Любой / авто / авто + принтер",
+    "pop": 62
+  },
+  "vacancies": [
+    {
+      "id": "alfabank-mobilnyy-bankir-fl",
+      "position": "Мобильный банкир (ФЛ)",
+      "details": "Встречи с клиентами банка. Оформление карт, продуктов.",
+      "partnerUrl": null
+    },
+    {
+      "id": "alfabank-dostavka-mmb-ul",
+      "position": "Доставка ММБ (ЮЛ)",
+      "details": "Доставка карт и документов для юридических лиц.",
+      "partnerUrl": null
+    },
+    {
+      "id": "alfabank-dostavka-mmb-ul-nadomniki",
+      "position": "Доставка ММБ надомники (ЮЛ)",
+      "details": "Доставка карт и документов для ЮЛ в малых городах.",
+      "partnerUrl": null
+    },
+    {
+      "id": "alfabank-dostavka-fl-nadomniki",
+      "position": "Доставка ФЛ надомники",
+      "details": "Доставка карт для физлиц в малых городах.",
+      "partnerUrl": null
+    },
+    {
+      "id": "alfabank-dsa",
+      "position": "DSA (менеджер по активным продажам, ФЛ)",
+      "details": "Активные продажи банковских продуктов физлицам.",
+      "partnerUrl": null
+    },
+    {
+      "id": "alfabank-premium-menedzher",
+      "position": "Премиум-менеджер (VIP-клиенты)",
+      "details": "Обслуживание VIP-клиентов банка. Офис.",
+      "exp": "1–3 года",
+      "schedule": "5/2",
+      "tags": ["office"],
+      "partnerUrl": null
+    },
+    {
+      "id": "alfabank-menedzher-mb",
+      "position": "Менеджер по привлечению клиентов МБ",
+      "details": "Привлечение клиентов малого бизнеса.",
+      "partnerUrl": null
+    }
+  ]
+}

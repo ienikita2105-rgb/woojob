@@ -1,0 +1,28 @@
+{
+  "source": "Lovko",
+  "company": "Lamoda",
+  "logo": "images/lamoda.png",
+  "partnerType": "lead",
+  "partnerReward": "750 ₽",
+  "defaults": {
+    "prof": "Склад",
+    "details": "Работа на складе Lamoda. Сортировка, сборка и подготовка заказов.",
+    "exp": "Без опыта",
+    "format": "Полная занятость",
+    "schedule": "Сменный",
+    "tags": ["warehouse", "noExperience", "shift"],
+    "pop": 80
+  },
+  "vacancies": [
+    {
+      "id": "lamoda-sklad-moskva",
+      "position": "Сотрудник склада ТВХ (Москва)",
+      "cities": ["moskva"],
+      "salaryTo": 143000,
+      "salaryNote": "до 143 000 ₽/мес",
+      "warehouseCity": "moskva",
+      "warehouseAddress": "г. Москва, ул. Дорожная, 1с5к4",
+      "partnerUrl": null
+    }
+  ]
+}

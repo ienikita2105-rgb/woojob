@@ -1,0 +1,42 @@
+{
+  "source": "Pampadu",
+  "company": "Efin",
+  "logo": "images/efin.png",
+  "partnerType": "hired_plus_activity",
+  "partnerReward": "14000 ₽",
+  "defaults": {
+    "prof": "Финансы",
+    "exp": "Без опыта",
+    "format": "Полная занятость",
+    "schedule": "Гибкий",
+    "tags": ["noExperience", "office"],
+    "citizenship": "rf",
+    "details": "Встречи с клиентами банка, оформление документов. Оплата за встречи.",
+    "pop": 72
+  },
+  "vacancies": [
+    {
+      "id": "efin-vyezdnoy-predstavitel",
+      "position": "Выездной представитель банка",
+      "salaryFrom": 40000,
+      "salaryTo": 60000,
+      "salaryNote": "оплата за встречи, ~400 ₽/встреча",
+      "cities": [
+        "moskva","sankt-peterburg","novosibirsk","ekaterinburg","kazan",
+        "nizhniy-novgorod","chelyabinsk","omsk","samara","rostov-na-donu",
+        "ufa","krasnoyarsk","voronezh","perm","volgograd","krasnodar",
+        "saratov","tula","yaroslavl","bryansk","vladimir","izhevsk","kaluga",
+        "lipetsk","obninsk","orenburg","penza","ryazan","tambov","tver",
+        "ulyanovsk","smolensk","kursk","murmansk","orel","petrozavodsk",
+        "tolyatti","severodvinsk","astrakhan","belgorod","blagoveshchensk",
+        "birabidzhan","velikiy-novgorod","kaliningrad","nizhnekamsk",
+        "nizhnevartovsk","pskov","saransk","surgut","habarovsk",
+        "hanty-mansiysk","cherepovets","arhangelsk","vologda","ivanovo"
+      ],
+      "requirements": ["Паспорт РФ с пропиской", "СНИЛС", "ИНН", "Статус самозанятого"],
+      "vehicleRequirements": "Авто / пеший / любой",
+      "referralBonus": "10000–15000 ₽",
+      "partnerUrl": null
+    }
+  ]
+}

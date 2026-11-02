@@ -1,0 +1,86 @@
+{
+  "source": "Lovko",
+  "company": "ВкусВилл Розница",
+  "logo": "images/vkusvill.png",
+  "partnerType": "click",
+  "partnerReward": "6000 ₽",
+  "defaults": {
+    "prof": "Логистика",
+    "exp": "Без опыта",
+    "schedule": "Гибкий",
+    "tags": ["noExperience", "courier"]
+  },
+  "vacancies": [
+    {
+      "id": "vkusvill-roznica-avtokurer",
+      "position": "Автокурьер",
+      "details": "Доставка заказов из розничных магазинов на личном авто.",
+      "format": "Полная занятость",
+      "salaryTo": 132000,
+      "cities": [
+        "moskva","sankt-peterburg","blagoveshchensk","svobodnyy","astrakhan",
+        "belgorod","aleksandrovka","borisovka","veydelevka","dubovoe","korocha",
+        "novyy-oskol","proletarskiy","razumnoe","rakitnoe","severnyy","seretino",
+        "birabidzhan","smidovich","velikiy-novgorod","okulovka","valday",
+        "staraya-russa","vladimir","voronezh","ekaterinburg","yoshkar-ola",
+        "kaliningrad","neman","polessk","svetlyy","yantarnyy","kaluga",
+        "krasnoyarsk","lipetsk","elec","nizhnekamsk","nizhnevartovsk",
+        "nizhniy-novgorod","volodarsk","orel","naryshkino","bolshoy-kamen",
+        "dalnegorsk","pskov","dedovichi","dno","ostrov","strugi-krasnye",
+        "samara","saransk","smolensk","surgut","tver","tula","ulyanovsk","ufa",
+        "amursk","sovetskaya-gavan","solnechnyy","hanty-mansiysk","cherepovets",
+        "andreevka","boltino","brehovo","vidnoe","glinkovo","gribki","drozhzhino",
+        "dolgoprudnyy","domodedovo","zelenograd","korolev","kotelniki",
+        "krasnogorsk","lobnya","lunevo","lyubercy","manyuhino","moskovskiy",
+        "mytischi","odincovo","pervomayskiy","pirogovo","podolsk","pushkino",
+        "saburovo","sergiev-posad","skoropuskovskiy","soloslovo","himki",
+        "mescherino","makarovo","agalatovo","maloe-karlino","murino",
+        "poroshkino","telmana","ust-luga"
+      ],
+      "regions": [
+        "moskovskaya-oblast","leningradskaya-oblast","amurskaya-oblast",
+        "belgorodskaya-oblast","evreyskaya-ao","novgorodskaya-oblast",
+        "kaliningradskaya-oblast","kaluzhskaya-oblast","lipetskaya-oblast",
+        "nizhegorodskaya-oblast","orlovskaya-oblast","primorskiy-kray",
+        "pskovskaya-oblast","smolenskaya-oblast","tulskaya-oblast",
+        "habarovskiy-kray"
+      ],
+      "tags": ["driver", "car"],
+      "requirements": ["Личный автомобиль"],
+      "vehicleRequirements": "Личный автомобиль",
+      "pop": 90,
+      "partnerUrl": null
+    },
+    {
+      "id": "vkusvill-roznica-velo",
+      "position": "Велокурьер",
+      "details": "Доставка заказов из розничных магазинов на велосипеде.",
+      "format": "Подработка",
+      "salaryTo": 132000,
+      "cities": [
+        "moskva","sankt-peterburg","astrakhan","volgograd","voronezh",
+        "ekaterinburg","kazan","kaluga","krasnodar","krasnoyarsk",
+        "nizhniy-novgorod","novosibirsk","omsk","perm","rostov-na-donu",
+        "samara","smolensk","tula","ufa","chelyabinsk","cherepovets"
+      ],
+      "tags": ["bike", "partTime"],
+      "pop": 88,
+      "partnerUrl": null
+    },
+    {
+      "id": "vkusvill-roznica-pesh",
+      "position": "Пеший курьер",
+      "details": "Доставка заказов из розничных магазинов пешком в пределах района.",
+      "format": "Подработка",
+      "salaryTo": 100000,
+      "cities": [
+        "moskva","sankt-peterburg","volgograd","voronezh","ekaterinburg",
+        "kazan","krasnodar","krasnoyarsk","nizhniy-novgorod","novosibirsk",
+        "omsk","perm","rostov-na-donu","samara","ufa","chelyabinsk"
+      ],
+      "tags": ["walk", "partTime"],
+      "pop": 86,
+      "partnerUrl": null
+    }
+  ]
+}

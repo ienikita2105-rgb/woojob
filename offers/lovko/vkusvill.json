@@ -1,0 +1,70 @@
+{
+  "source": "Lovko",
+  "company": "ВкусВилл Доставка",
+  "logo": "images/vkusvill.png",
+  "partnerType": "click",
+  "partnerReward": "5000 ₽",
+  "defaults": {
+    "prof": "Логистика",
+    "exp": "Без опыта",
+    "format": "Подработка",
+    "schedule": "Гибкий",
+    "tags": ["noExperience", "courier"],
+    "pop": 95
+  },
+  "vacancies": [
+    {
+      "id": "vkusvill-dostavka-velo",
+      "position": "Велокурьер",
+      "details": "Доставка заказов на велосипеде. Гибкий график, оплата за день.",
+      "salaryDay": 6000,
+      "salaryNote": "≈ 6 000 ₽/день",
+      "cities": [
+        "aleksandrov","andreevka","arhangelsk","balashiha","bronnicy","bugry",
+        "vidnoe","vladimir","voronezh","voskresensk","dedovsk","dolgoprudnyy",
+        "domodedovo","dubna","egorevsk","ekaterinburg","zhukovskiy","zelenograd",
+        "ivanovo","izhevsk","kazan","kaluga","kolomna","korolev","krasnogorsk",
+        "krasnodar","lipetsk","lobnya","lyubercy","mozhaysk","moskva","moskovskiy",
+        "murino","naberezhnye-chelny","naro-fominsk","nahabino","nemchinovka",
+        "nizhniy-novgorod","novinki","novorossiysk","obninsk","orenburg","penza",
+        "perm","podolsk","pushkin","pushkino","ramenskoe","reutov","rostov-na-donu",
+        "ryazan","samara","sankt-peterburg","saratov","sergiev-posad","tambov",
+        "tver","trehgorka","troick","tula","ulyanovsk","ufa","himki","hotkovo",
+        "chelyabinsk","chehov","schelkovo"
+      ],
+      "tags": ["bike", "partTime"],
+      "partnerUrl": null
+    },
+    {
+      "id": "vkusvill-dostavka-avto",
+      "position": "Водитель-курьер на личном авто",
+      "details": "Доставка заказов на собственном автомобиле. Компенсация топлива.",
+      "salaryDay": 6000,
+      "salaryNote": "≈ 6 000 ₽/день",
+      "cities": [
+        "aleksandrov","andreevka","balashiha","bronnicy","bryansk","bugry","vidnoe",
+        "vladimir","vologda","voronezh","voskresensk","dedovsk","dzerzhinsk",
+        "dzerzhinskiy","dmitrov","dmitrievskiy","dolgoprudnyy","domodedovo","dubna",
+        "egorevsk","ekaterinburg","zhukovskiy","zvenigorod","zelenograd","izhevsk",
+        "ivanovo","istra","yoshkar-ola","kazan","kaluga","kashira","kirzhach",
+        "kovrov","kolomna","korolev","kostroma","kraskovo","krasnogorsk","kubinka",
+        "kursk","lipetsk","lobnya","losino-petrovskiy","lytkarino","lyubercy",
+        "mozhaysk","moskva","moskovskiy","murmansk","mytischi","naberezhnye-chelny",
+        "naro-fominsk","nahabino","nemchinovka","nizhniy-novgorod","novomoskovsk",
+        "obninsk","odincovo","orel","orenburg","pavlovskiy-posad","penza",
+        "pereslavl-zalesskiy","petrozavodsk","perm","podolsk","pushkin","pushkino",
+        "ramenskoe","reutov","rostov-na-donu","ruza","ryazan","samara",
+        "sankt-peterburg","saratov","sverdlovskiy","severodvinsk","sergiev-posad",
+        "serpukhov","smolensk","stupino","tambov","tver","tolyatti","trehgorka",
+        "troick","tula","ulyanovsk","ufa","himki","hotkovo","chehov","chelyabinsk",
+        "schapovo","schelkovo","elektrostal"
+      ],
+      "tags": ["driver", "car", "partTime"],
+      "requirements": ["Личный автомобиль"],
+      "vehicleRequirements": "Личный автомобиль",
+      "travelCompensation": "Компенсация топлива",
+      "pop": 94,
+      "partnerUrl": null
+    }
+  ]
+}

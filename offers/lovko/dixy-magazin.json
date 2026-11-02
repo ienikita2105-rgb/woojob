@@ -1,0 +1,160 @@
+{
+  "source": "Lovko",
+  "company": "Дикси",
+  "logo": "images/dixy.png",
+  "partnerType": "lead",
+  "partnerReward": "500 ₽",
+  "defaults": {
+    "prof": "Розница",
+    "details": "Работа в магазине у дома. Кассир, продавец, мерчандайзер.",
+    "exp": "Без опыта",
+    "format": "Полная занятость",
+    "schedule": "Сменный",
+    "tags": ["retail", "noExperience", "shift"],
+    "pop": 68
+  },
+  "vacancies": [
+    {
+      "id": "dixy-magazin-moskva",
+      "position": "Сотрудник магазина (Москва)",
+      "cities": ["moskva"],
+      "salaryFrom": 60000, "salaryTo": 81767,
+      "partnerUrl": null
+    },
+    {
+      "id": "dixy-magazin-spb",
+      "position": "Сотрудник магазина (Санкт-Петербург)",
+      "cities": ["sankt-peterburg"],
+      "salaryFrom": 55000, "salaryTo": 75000,
+      "partnerUrl": null
+    },
+    {
+      "id": "dixy-magazin-mo",
+      "position": "Сотрудник магазина (Московская область)",
+      "cities": ["balashiha","himki","mytischi","korolev","lyubercy","krasnogorsk","dolgoprudnyy","odincovo","podolsk","domodedovo","sergiev-posad","schelkovo","pushkino","noginsk","orehovo-zuevo","ramenskoe","zhukovskiy","vidnoe","reutov","kotelniki","elektrostal","voskresensk","kolomna","egorevsk","serpukhov","chehov","klin","dmitrov","lobnya","dubna","shatura","roshal","elektrogorsk","chernogolovka","pavlovskiy-posad","likino-dulevo","kurovskoe","bronnicy","lytkarino","stupino","kashira","istra","mozhaysk","naro-fominsk","pushkin","mihaylovskaya-sloboda"],
+      "regions": ["moskovskaya-oblast"],
+      "salaryFrom": 50000, "salaryTo": 70000,
+      "partnerUrl": null
+    },
+    {
+      "id": "dixy-magazin-lo",
+      "position": "Сотрудник магазина (Ленинградская область)",
+      "cities": ["shushary","pushkin","kolpino","metallostroy","murino","bugry","vsevolozhsk","gatchina","vysotsk","primorsk","sestroreck","kronstadt"],
+      "regions": ["leningradskaya-oblast"],
+      "salaryFrom": 45000, "salaryTo": 65000,
+      "partnerUrl": null
+    },
+    {
+      "id": "dixy-magazin-bryansk",
+      "position": "Сотрудник магазина (Брянская область)",
+      "cities": ["bryansk","klintsy","novozybkov","dyatkovo","starodub"],
+      "regions": ["bryanskaya-oblast"],
+      "salaryFrom": 40000, "salaryTo": 55000,
+      "partnerUrl": null
+    },
+    {
+      "id": "dixy-magazin-vladimir",
+      "position": "Сотрудник магазина (Владимирская область)",
+      "cities": ["vladimir","kovrov","murom","aleksandrov","gus-hrustalnyy","vyazniki","suzdal"],
+      "regions": ["vladimirskaya-oblast"],
+      "salaryFrom": 40000, "salaryTo": 55000,
+      "partnerUrl": null
+    },
+    {
+      "id": "dixy-magazin-ivanovo",
+      "position": "Сотрудник магазина (Ивановская область)",
+      "cities": ["ivanovo","kineshma","shuya","vihuga"],
+      "regions": ["ivanovskaya-oblast"],
+      "salaryFrom": 40000, "salaryTo": 55000,
+      "partnerUrl": null
+    },
+    {
+      "id": "dixy-magazin-kaluga",
+      "position": "Сотрудник магазина (Калужская область)",
+      "cities": ["kaluga","obninsk","lyudinovo","maloyaroslavets","borovsk","balabanovo","belousovo","ermolino"],
+      "regions": ["kaluzhskaya-oblast"],
+      "salaryFrom": 40000, "salaryTo": 55000,
+      "partnerUrl": null
+    },
+    {
+      "id": "dixy-magazin-kostroma",
+      "position": "Сотрудник магазина (Костромская область)",
+      "cities": ["kostroma"],
+      "regions": ["kostromskaya-oblast"],
+      "salaryFrom": 40000, "salaryTo": 55000,
+      "partnerUrl": null
+    },
+    {
+      "id": "dixy-magazin-novgorod",
+      "position": "Сотрудник магазина (Новгородская область)",
+      "cities": ["velikiy-novgorod","borovichi","staraya-russa"],
+      "regions": ["novgorodskaya-oblast"],
+      "salaryFrom": 40000, "salaryTo": 55000,
+      "partnerUrl": null
+    },
+    {
+      "id": "dixy-magazin-orel",
+      "position": "Сотрудник магазина (Орловская область)",
+      "cities": ["orel","livny"],
+      "regions": ["orlovskaya-oblast"],
+      "salaryFrom": 35000, "salaryTo": 40946,
+      "partnerUrl": null
+    },
+    {
+      "id": "dixy-magazin-pskov",
+      "position": "Сотрудник магазина (Псковская область)",
+      "cities": ["pskov","velikie-luki"],
+      "regions": ["pskovskaya-oblast"],
+      "salaryFrom": 40000, "salaryTo": 55000,
+      "partnerUrl": null
+    },
+    {
+      "id": "dixy-magazin-ryazan",
+      "position": "Сотрудник магазина (Рязанская область)",
+      "cities": ["ryazan","kasimov","skopin","rybnoe","sasovo"],
+      "regions": ["ryazanskaya-oblast"],
+      "salaryFrom": 40000, "salaryTo": 55000,
+      "partnerUrl": null
+    },
+    {
+      "id": "dixy-magazin-smolensk",
+      "position": "Сотрудник магазина (Смоленская область)",
+      "cities": ["smolensk","vyazma","roslavl","safonovo","yarcevo"],
+      "regions": ["smolenskaya-oblast"],
+      "salaryFrom": 40000, "salaryTo": 55000,
+      "partnerUrl": null
+    },
+    {
+      "id": "dixy-magazin-tver",
+      "position": "Сотрудник магазина (Тверская область)",
+      "cities": ["tver","rzhev","vyshniy-volochek","kimry","konakovo","torzhok"],
+      "regions": ["tverskaya-oblast"],
+      "salaryFrom": 40000, "salaryTo": 55000,
+      "partnerUrl": null
+    },
+    {
+      "id": "dixy-magazin-tula",
+      "position": "Сотрудник магазина (Тульская область)",
+      "cities": ["tula","novomoskovsk","donskoy","aleksin","uzlovaya","venev","yasnogorsk","sovetsk"],
+      "regions": ["tulskaya-oblast"],
+      "salaryFrom": 40000, "salaryTo": 55000,
+      "partnerUrl": null
+    },
+    {
+      "id": "dixy-magazin-yaroslavl",
+      "position": "Сотрудник магазина (Ярославская область)",
+      "cities": ["yaroslavl","rybinsk","tutaev","uglich","pereslavl-zalesskiy","rostov"],
+      "regions": ["yaroslavskaya-oblast"],
+      "salaryFrom": 40000, "salaryTo": 55000,
+      "partnerUrl": null
+    },
+    {
+      "id": "dixy-magazin-voronezh",
+      "position": "Сотрудник магазина (Воронежская область)",
+      "cities": ["voronezh","borisoglebsk","rossosh","liski","novovoronezh"],
+      "regions": ["voronezhskaya-oblast"],
+      "salaryFrom": 40000, "salaryTo": 55000,
+      "partnerUrl": null
+    }
+  ]
+}

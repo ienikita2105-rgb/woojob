@@ -1,0 +1,93 @@
+{
+  "source": "Lovko",
+  "company": "Перекрёсток",
+  "logo": "images/perekrestok.png",
+  "partnerType": "hired",
+  "partnerReward": "10500 ₽",
+  "defaults": {
+    "prof": "Склад",
+    "details": "Работа на складе. Приёмка, размещение, комплектация товара.",
+    "exp": "Без опыта",
+    "format": "Полная занятость",
+    "schedule": "Сменный",
+    "tags": ["warehouse", "noExperience", "shift"],
+    "pop": 75
+  },
+  "vacancies": [
+    {
+      "id": "perekrestok-mytischi-kladovschik",
+      "position": "Кладовщик",
+      "warehouseCity": "mytischi",
+      "warehouseAddress": "2-й км Липкинского шоссе, с8",
+      "rcName": "Склад Мытищи",
+      "cities": ["balashiha","dolgoprudnyy","zelenograd","ivanteevka","korolev","lesnoy","lobnya","moskva","mytischi","nekrasovskiy","pravdinskiy","putilkovo","pushkino","himki"],
+      "regions": ["moskovskaya-oblast"],
+      "salaryFrom": 130000, "salaryTo": 150000,
+      "partnerUrl": null
+    },
+    {
+      "id": "perekrestok-mytischi-shtabeler",
+      "position": "Водитель электроштабелера",
+      "warehouseCity": "mytischi",
+      "warehouseAddress": "2-й км Липкинского шоссе, с8",
+      "rcName": "Склад Мытищи",
+      "cities": ["balashiha","dolgoprudnyy","zelenograd","ivanteevka","korolev","lesnoy","lobnya","moskva","mytischi","nekrasovskiy","pravdinskiy","putilkovo","pushkino","himki"],
+      "regions": ["moskovskaya-oblast"],
+      "salaryFrom": 130000, "salaryTo": 150000,
+      "requirements": ["Права на электроштабелер"],
+      "vehicleRequirements": "Электроштабелер",
+      "tags": ["driver"],
+      "partnerUrl": null
+    },
+    {
+      "id": "perekrestok-solnechnogorsk-kladovschik",
+      "position": "Кладовщик",
+      "warehouseCity": "solnechnogorsk",
+      "warehouseAddress": "п. Литвиново, стр. 1/1",
+      "rcName": "Склад Солнечногорск",
+      "cities": ["bezheck","velikiy-novgorod","vologda","vysokovsk","vyshniy-volochek","dedovsk","dmitrov","zaprudnya","zelenograd","istra","klin","konakovo","krasnozavodsk","lobnya","moskva","nahabino","povarovo","pushkino","radumlya","redkino","rzhev","rogachevo","rybinsk","solnechnogorsk","taldom","tver","himki","cherepovets"],
+      "regions": ["moskovskaya-oblast","tverskaya-oblast","novgorodskaya-oblast","vologodskaya-oblast","yaroslavskaya-oblast"],
+      "salaryFrom": 120000, "salaryTo": 150000,
+      "partnerUrl": null
+    },
+    {
+      "id": "perekrestok-solnechnogorsk-shtabeler",
+      "position": "Водитель электроштабелера",
+      "warehouseCity": "solnechnogorsk",
+      "warehouseAddress": "п. Литвиново, стр. 1/1",
+      "rcName": "Склад Солнечногорск",
+      "cities": ["bezheck","velikiy-novgorod","vologda","vysokovsk","vyshniy-volochek","dedovsk","dmitrov","zaprudnya","zelenograd","istra","klin","konakovo","krasnozavodsk","lobnya","moskva","nahabino","povarovo","pushkino","radumlya","redkino","rzhev","rogachevo","rybinsk","solnechnogorsk","taldom","tver","himki","cherepovets"],
+      "regions": ["moskovskaya-oblast","tverskaya-oblast","novgorodskaya-oblast","vologodskaya-oblast","yaroslavskaya-oblast"],
+      "salaryFrom": 120000, "salaryTo": 150000,
+      "requirements": ["Права на электроштабелер"],
+      "vehicleRequirements": "Электроштабелер",
+      "tags": ["driver"],
+      "partnerUrl": null
+    },
+    {
+      "id": "perekrestok-ramenskoe-kladovschik",
+      "position": "Кладовщик",
+      "warehouseCity": "ramenskoe",
+      "warehouseAddress": "Логистический технопарк Софьино, к1",
+      "rcName": "Склад Раменское",
+      "cities": ["aleksin","bronnicy","bykovo","venev","volosovo","voskresensk","egorevsk","kashira","kurovskoe","mihaylovskaya-sloboda","novomoskovsk","orehovo-zuevo","pavlovskiy-posad","ramenskoe","roshal","serpukhov","stupino","tula","uzlovaya","chehov","shatura","yasnogorsk"],
+      "regions": ["moskovskaya-oblast","tulskaya-oblast"],
+      "salaryFrom": 90000, "salaryTo": 140000,
+      "partnerUrl": null
+    },
+    {
+      "id": "perekrestok-ramenskoe-shtabeler",
+      "position": "Водитель электроштабелера",
+      "warehouseCity": "ramenskoe",
+      "warehouseAddress": "Логистический технопарк Софьино, к1",
+      "rcName": "Склад Раменское",
+      "cities": ["aleksin","bronnicy","bykovo","venev","volosovo","voskresensk","egorevsk","kashira","kurovskoe","mihaylovskaya-sloboda","novomoskovsk","orehovo-zuevo","pavlovskiy-posad","ramenskoe","roshal","serpukhov","stupino","tula","uzlovaya","chehov","shatura","yasnogorsk"],
+      "regions": ["moskovskaya-oblast","tulskaya-oblast"],
+      "salaryFrom": 90000, "salaryTo": 140000,
+      "requirements": ["Права на электроштабелер"],
+      "vehicleRequirements": "Электроштабелер",
+      "tags": ["driver"],
+      "partnerUrl": null
+    }
+  ]
+}

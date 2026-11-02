@@ -1,0 +1,40 @@
+{
+  "source": "Lovko",
+  "company": "Деловые Линии",
+  "logo": "images/dellin.png",
+  "partnerType": "lead",
+  "partnerReward": "500 ₽",
+  "defaults": {
+    "prof": "Склад",
+    "details": "Погрузо-разгрузочные работы на складе. Оформление по ТК РФ, спецодежда, обучение.",
+    "exp": "Без опыта",
+    "format": "Полная занятость",
+    "schedule": "Сменный",
+    "tags": ["warehouse", "noExperience", "shift"],
+    "pop": 75
+  },
+  "vacancies": [
+    {
+      "id": "delovye-linii-gruzchik-valischevo",
+      "position": "Грузчик (склад Валуево)",
+      "cities": ["podolsk","chehov","domodedovo","serpuhov"],
+      "salaryFrom": 134000,
+      "salaryTo": 134000,
+      "salaryNote": "от 134 000 ₽/мес до вычета налогов",
+      "warehouseCity": "podolsk",
+      "warehouseAddress": "Подольский район, дер. Валищево, д. 2, стр. 1, складской комплекс «PNK-парк Валищево»",
+      "partnerUrl": null
+    },
+    {
+      "id": "delovye-linii-gruzchik-yuzhnye-vrata",
+      "position": "Грузчик (склад Южные Врата)",
+      "cities": ["podolsk","chehov","domodedovo","serpuhov","stupino","kashira"],
+      "salaryFrom": 134000,
+      "salaryTo": 134000,
+      "salaryNote": "от 134 000 ₽/мес до вычета налогов",
+      "warehouseCity": "domodedovo",
+      "warehouseAddress": "г. Домодедово, мкр. Белые Столбы, Индустриальный парк Южные Врата, вл. склады 104 с5/1, «складской комплекс М500»",
+      "partnerUrl": null
+    }
+  ]
+}

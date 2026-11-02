@@ -1,0 +1,27 @@
+{
+  "source": "Lovko",
+  "company": "ВкусВилл Розница",
+  "logo": "images/vkusvill.png",
+  "partnerType": "click",
+  "partnerReward": "6000 ₽",
+  "defaults": {
+    "prof": "Розница",
+    "details": "Сборка онлайн-заказов в магазине. Работа с приложением.",
+    "exp": "Без опыта",
+    "format": "Полная занятость",
+    "schedule": "Сменный",
+    "tags": ["retail", "noExperience", "shift", "picker"],
+    "pop": 70
+  },
+  "vacancies": [
+    {
+      "id": "vkusvill-roznica-sborschik-moskva",
+      "position": "Сборщик заказов (Москва)",
+      "cities": ["moskva"],
+      "salaryFrom": 80000,
+      "salaryTo": 134000,
+      "salaryNote": "до 134 000 ₽/мес",
+      "partnerUrl": null
+    }
+  ]
+}

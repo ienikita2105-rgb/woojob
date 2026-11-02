@@ -1,0 +1,47 @@
+{
+  "source": "Pampadu",
+  "company": "Альфа-Банк",
+  "logo": "images/alfabank.png",
+  "partnerType": "hired",
+  "partnerReward": "6148 ₽ (трудоустройство)",
+  "defaults": {
+    "prof": "Финансы",
+    "exp": "Без опыта",
+    "format": "Полная занятость",
+    "schedule": "Гибкий",
+    "tags": ["office", "noExperience", "driver"],
+    "citizenship": "rf_by_kz",
+    "ageFrom": 18,
+    "ageTo": 40,
+    "requirements": [
+      "Без судимости",
+      "Опрятный вид",
+      "Без тату",
+      "Грамотная речь",
+      "Наличие принтера (компенсация 5000 ₽)",
+      "Готовность к разъездной работе"
+    ],
+    "vehicleRequirements": "Авто (в большинстве городов)",
+    "pop": 60
+  },
+  "vacancies": [
+    {
+      "id": "alfabank-malye-goroda",
+      "position": "Специалист по доставке пластиковых карт (малые города)",
+      "details": "Работа в малых городах России. Доставка банковских продуктов, подписание документов, консультирование клиентов. Дистанционное собеседование. Полный список городов — в разделе «Промоматериалы» Pampadu.",
+      "salaryFrom": 30000,
+      "salaryTo": 90000,
+      "salaryNote": "от 30 000 до 90 000 ₽/мес",
+      "cities": [
+        "arhangelsk","bryansk","vladimir","volgograd","vologda","voronezh",
+        "ekaterinburg","ivanovo","izhevsk","kazan","kaliningrad","kaluga",
+        "krasnodar","krasnoyarsk","kursk","lipetsk","murmansk","nizhniy-novgorod",
+        "novosibirsk","omsk","orel","orenburg","penza","perm","petrozavodsk",
+        "pskov","rostov-na-donu","ryazan","samara","sankt-peterburg","saratov",
+        "smolensk","stavropol","surgut","tver","tomsk","tula","tyumen",
+        "ulyanovsk","ufa","chelyabinsk","cherepovets","yaroslavl","moskva"
+      ],
+      "partnerUrl": null
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "source": "Pampadu",
+  "company": "Заряд (Магнит)",
+  "logo": "images/zaryad.png",
+  "partnerType": "hired",
+  "partnerReward": "10500 ₽",
+  "defaults": {
+    "prof": "Розница",
+    "salaryFrom": 34100,
+    "salaryTo": 129900,
+    "cities": ["moskva", "krasnogorsk", "kotelniki"],
+    "exp": "Без опыта",
+    "format": "Полная занятость",
+    "schedule": "Сменный",
+    "scheduleNote": "42 магазина",
+    "tags": ["noExperience", "shift"],
+    "citizenship": "rf",
+    "ageFrom": 18,
+    "ageTo": 50,
+    "requirements": ["Паспорт РФ", "Регистрация", "СНИЛС", "ИНН"],
+    "referralBonus": "10000 ₽",
+    "pop": 65
+  },
+  "vacancies": [
+    {
+      "id": "zaryad-prodavec",
+      "position": "Продавец",
+      "details": "Работа в магазине у дома. Обслуживание покупателей.",
+      "tags": ["retail"],
+      "partnerUrl": null
+    },
+    {
+      "id": "zaryad-povar",
+      "position": "Повар",
+      "details": "Приготовление блюд в кулинарии магазина.",
+      "prof": "Общепит",
+      "tags": ["food"],
+      "requirements": ["Паспорт РФ", "Регистрация", "СНИЛС", "ИНН", "Медкнижка"],
+      "partnerUrl": null
+    },
+    {
+      "id": "zaryad-administrator",
+      "position": "Администратор",
+      "details": "Управление сменой в магазине. Контроль работы персонала.",
+      "tags": ["retail"],
+      "partnerUrl": null
+    }
+  ]
+}

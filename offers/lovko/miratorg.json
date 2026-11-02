@@ -1,0 +1,51 @@
+{
+  "source": "Lovko",
+  "company": "Мираторг",
+  "logo": "images/miratorg.png",
+  "partnerType": "lead",
+  "partnerReward": "500 ₽",
+  "defaults": {
+    "prof": "Склад",
+    "details": "Сборка заказов на складе с помощью ТСД. Обучение, спецодежда, корпоративный транспорт.",
+    "exp": "Без опыта",
+    "format": "Полная занятость",
+    "schedule": "Сменный",
+    "tags": ["warehouse", "noExperience", "shift", "picker"],
+    "pop": 75
+  },
+  "vacancies": [
+    {
+      "id": "miratorg-sborschik-solnechnogorsk",
+      "position": "Сборщик заказов (Солнечногорск)",
+      "cities": ["zelenograd","solnechnogorsk","klin"],
+      "salaryFrom": 150000,
+      "salaryTo": 250000,
+      "salaryNote": "от 150 000 до 250 000 ₽/мес",
+      "warehouseCity": "solnechnogorsk",
+      "warehouseAddress": "МО, Солнечногорский р-н, д. Шелепаново, 152/2",
+      "partnerUrl": null
+    },
+    {
+      "id": "miratorg-sborschik-kazan",
+      "position": "Сборщик заказов (Казань)",
+      "cities": ["kazan"],
+      "salaryFrom": 80000,
+      "salaryTo": 120000,
+      "salaryNote": "от 80 000 до 120 000 ₽/мес",
+      "warehouseCity": "kazan",
+      "warehouseAddress": "Казань, Горьковское шоссе, 53Б",
+      "partnerUrl": null
+    },
+    {
+      "id": "miratorg-sborschik-domodedovo",
+      "position": "Сборщик заказов (Домодедово)",
+      "cities": ["domodedovo","podolsk","kashira","stupino","vidnoe"],
+      "salaryFrom": 140000,
+      "salaryTo": 180000,
+      "salaryNote": "от 140 000 до 180 000 ₽/мес",
+      "warehouseCity": "domodedovo",
+      "warehouseAddress": "МО, г. Домодедово, 34 км Каширского шоссе (трасса М4 Дон)",
+      "partnerUrl": null
+    }
+  ]
+}

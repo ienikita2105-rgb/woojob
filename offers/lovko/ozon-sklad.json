@@ -1,0 +1,345 @@
+{
+  "source": "Lovko",
+  "company": "Ozon",
+  "logo": "images/ozon.png",
+  "partnerType": "lead",
+  "partnerReward": "450 ₽",
+  "defaults": {
+    "prof": "Склад",
+    "details": "Работа на складе Ozon. Сборка, упаковка, сортировка заказов.",
+    "exp": "Без опыта",
+    "format": "Полная занятость",
+    "schedule": "Сменный",
+    "tags": ["warehouse", "noExperience", "shift"],
+    "ageFrom": 18,
+    "ageTo": 55,
+    "pop": 82
+  },
+  "vacancies": [
+    {
+      "id": "ozon-sklad-vatutinki",
+      "position": "Сотрудник склада (ФФ Ватутинки)",
+      "warehouseCity": "moskva",
+      "warehouseAddress": "г. Москва, д. Ватутинки, ул. Гренадерская, 1стр 6",
+      "rcName": "ФФ Ватутинки",
+      "cities": ["moskva","troick","vatutinki"],
+      "transportCities": ["прокшино","ольховая","потапово","тропарево","румянцево","саларьево","филатов луг","лесопарковая","говорово","новопеределкино","рассказовка","строгино","крылатское","молодежная","тютчевская","ховрино","некрасовка","жулебино","котельники","красногвардейская","зябликово","домодедовская"],
+      "salaryTo": 125900,
+      "referralBonus": "до 50 000 ₽ за друга",
+      "partnerUrl": null
+    },
+    {
+      "id": "ozon-sklad-grivno",
+      "position": "Сотрудник склада (ФФ Гривно)",
+      "warehouseCity": "podolsk",
+      "warehouseAddress": "МО, г. Подольск, д. Гривно, тер. пром. парка Гривно",
+      "rcName": "ФФ Гривно",
+      "cities": ["serpukhov","podolsk","chehov","klimovsk","troick","vidnoe","scherbinka"],
+      "salaryTo": 125900,
+      "referralBonus": "до 50 000 ₽ за друга",
+      "partnerUrl": null
+    },
+    {
+      "id": "ozon-sklad-domodedovo",
+      "position": "Сотрудник склада (ФФ Домодедово)",
+      "warehouseCity": "domodedovo",
+      "warehouseAddress": "МО, г.о. Домодедово, дер. Кучино, тер. ПНК Парк Домодедово-2",
+      "rcName": "ФФ Домодедово",
+      "cities": ["domodedovo","vidnoe","podolsk","serpukhov","stupino","kashira","bronnicy","troick"],
+      "salaryTo": 125900,
+      "referralBonus": "до 50 000 ₽ за друга",
+      "partnerUrl": null
+    },
+    {
+      "id": "ozon-sklad-horugvino",
+      "position": "Сотрудник склада (ФФ Хоругвино)",
+      "warehouseCity": "solnechnogorsk",
+      "warehouseAddress": "МО, Солнечногорский район, деревня Хоругвино, 35/2",
+      "rcName": "ФФ Хоругвино",
+      "cities": ["zelenograd","klin","solnechnogorsk","dmitrov","yahroma","iksha","konakovo","lobnya","himki","taldom","dubna"],
+      "salaryTo": 125900,
+      "referralBonus": "до 50 000 ₽ за друга",
+      "partnerUrl": null
+    },
+    {
+      "id": "ozon-sklad-zhukovskiy",
+      "position": "Сотрудник склада (ФФ Жуковский)",
+      "warehouseCity": "zhukovskiy",
+      "warehouseAddress": "Московская обл., г. Жуковский, р-н Замоскворечье, 457, стр. 5",
+      "rcName": "ФФ Жуковский",
+      "cities": ["zhukovskiy","ramenskoe","voskresensk","kolomna","lytkarino","domodedovo","egorevsk","shatura","orel"],
+      "salaryTo": 125900,
+      "referralBonus": "до 50 000 ₽ за друга",
+      "partnerUrl": null
+    },
+    {
+      "id": "ozon-sklad-pushkino",
+      "position": "Сотрудник склада (ФФ Пушкино)",
+      "warehouseCity": "pushkino",
+      "warehouseAddress": "г. Пушкино, Ярославское шоссе, 218",
+      "rcName": "ФФ Пушкино",
+      "cities": ["aleksandrov","sergiev-posad","pushkino","balashiha","dolgoprudnyy","ivanteevka","schelkovo","mytischi","dmitrov","fryazino","krasnoarmeysk"],
+      "salaryTo": 125900,
+      "referralBonus": "до 50 000 ₽ за друга",
+      "partnerUrl": null
+    },
+    {
+      "id": "ozon-sklad-noginsk",
+      "position": "Сотрудник склада (ФФ Ногинск)",
+      "warehouseCity": "noginsk",
+      "warehouseAddress": "Московская обл., п. Обухово, тер. Обухово-Парк, 2, стр. 1",
+      "rcName": "ФФ Ногинск",
+      "cities": ["obuhovo","orehovo-zuevo","balashiha","likino-dulevo","pavlovskiy-posad","elektrogorsk","chernogolovka","noginsk","elektrostal","losino-petrovskiy","staraya-kupavna"],
+      "salaryTo": 125900,
+      "referralBonus": "до 50 000 ₽ за друга",
+      "partnerUrl": null
+    },
+    {
+      "id": "ozon-sklad-istra-petrovskoe",
+      "position": "Сотрудник склада (Истра Петровское)",
+      "warehouseCity": "istra",
+      "warehouseAddress": "г.о. Истра, с. Петровское, МПСК Ориентир-Запад, д. 1А",
+      "rcName": "Истра Петровское",
+      "cities": ["istra","petrovskoe","dedovsk","snegiri","volokolamsk","zelenograd","krasnogorsk","nahabino","odincovo","zvenigorod","ruza","mozhaysk","naro-fominsk","kubinka","golicyno","obninsk"],
+      "salaryTo": 125900,
+      "referralBonus": "до 50 000 ₽ за друга",
+      "partnerUrl": null
+    },
+    {
+      "id": "ozon-sklad-nikolskoe",
+      "position": "Сотрудник склада (СЦ Никольское)",
+      "warehouseCity": "nikolskoe",
+      "warehouseAddress": "МО, Дмитровский г.о., п. Никольское, 205с1",
+      "rcName": "СЦ Никольское",
+      "cities": ["nikolskoe","zelenograd","dmitrov","himki","lobnya","klin","iksha","volokolamsk","solnechnogorsk"],
+      "salaryTo": 125900,
+      "referralBonus": "до 50 000 ₽ за друга",
+      "partnerUrl": null
+    },
+    {
+      "id": "ozon-sklad-sofino",
+      "position": "Сотрудник склада (ФФ Софьино)",
+      "warehouseCity": "ramenskoe",
+      "warehouseAddress": "МО, Раменский р-н, Логистический технопарк Софьино, 2/1",
+      "rcName": "ФФ Софьино",
+      "cities": ["ramenskoe","zhukovskiy","voskresensk","kolomna","egorevsk","bronnicy"],
+      "salaryTo": 125900,
+      "referralBonus": "до 50 000 ₽ за друга",
+      "partnerUrl": null
+    },
+    {
+      "id": "ozon-sklad-bugry",
+      "position": "Сотрудник склада (СЦ Бугры)",
+      "warehouseCity": "bugry",
+      "warehouseAddress": "Ленинградская область, Всеволожский район, п. Бугры, ул. Шоссейная 50 к.1",
+      "rcName": "СЦ Бугры",
+      "cities": ["sankt-peterburg","vsevolozhsk","yanino-1","murino","bugry"],
+      "salaryTo": 113800,
+      "referralBonus": "до 50 000 ₽ за друга",
+      "partnerUrl": null
+    },
+    {
+      "id": "ozon-sklad-sofiyskaya",
+      "position": "Сотрудник склада (Софийская)",
+      "warehouseCity": "sankt-peterburg",
+      "warehouseAddress": "г. Санкт-Петербург, ул. Софийская, д. 118, к. 4",
+      "rcName": "Софийская",
+      "cities": ["sankt-peterburg","gatchina","pushkin","kolpino","slavyanka","kudrovo"],
+      "salaryTo": 113800,
+      "referralBonus": "до 50 000 ₽ за друга",
+      "partnerUrl": null
+    },
+    {
+      "id": "ozon-sklad-shosseynaya-shtabeler",
+      "position": "Водитель электроштабелера (Шоссейная)",
+      "warehouseCity": "sankt-peterburg",
+      "warehouseAddress": "г. Санкт-Петербург, ул. Шоссейная, стр. 60 к.1",
+      "rcName": "Шоссейная",
+      "cities": ["sankt-peterburg","vsevolozhsk","murino","bugry"],
+      "salaryTo": 118500,
+      "requirements": ["Права на управление штабелером"],
+      "tags": ["driver"],
+      "partnerUrl": null
+    },
+    {
+      "id": "ozon-sklad-kemerovo",
+      "position": "Сотрудник склада (Кемерово)",
+      "warehouseCity": "kemerovo",
+      "warehouseAddress": "тер. автодорога Кемерово-Промышленная, км 14-й, зд. 2",
+      "rcName": "Кемерово",
+      "cities": ["kemerovo"],
+      "salaryTo": 75500,
+      "partnerUrl": null
+    },
+    {
+      "id": "ozon-sklad-kazan",
+      "position": "Сотрудник склада (Казань)",
+      "warehouseCity": "zelenodolsk",
+      "warehouseAddress": "Зеленодольский р-н, п. Новая Тура, ул. Промзона, д. 19",
+      "rcName": "Казань (ПСЦ Зеленодольск)",
+      "cities": ["kazan","zelenodolsk","volzhsk","vasilevo","naberezhnye-morkvashi"],
+      "salaryFrom": 90000, "salaryTo": 160000,
+      "partnerUrl": null
+    },
+    {
+      "id": "ozon-sklad-chapaevsk",
+      "position": "Сотрудник склада (Чапаевск)",
+      "warehouseCity": "chapaevsk",
+      "warehouseAddress": "Самарская обл., г. Чапаевск, ул. Индустриальная, 3",
+      "rcName": "Чапаевск",
+      "cities": ["samara","novokuybyshevsk","chapaevsk","bezenchuk","hvorostyanka"],
+      "salaryTo": 117000,
+      "partnerUrl": null
+    },
+    {
+      "id": "ozon-sklad-krasnoyarsk-starcevo",
+      "position": "Сотрудник склада (Красноярск Старцево)",
+      "warehouseCity": "startsevo",
+      "warehouseAddress": "Красноярский край, Емельяновский р-он, д. Старцево, территория ПЛК Емельяновский, здание 1",
+      "rcName": "ФФ Красноярск Старцево",
+      "cities": ["startsevo","krasnoyarsk","emelyanovo"],
+      "salaryTo": 97200,
+      "partnerUrl": null
+    },
+    {
+      "id": "ozon-sklad-artem",
+      "position": "Сотрудник склада (Артем)",
+      "warehouseCity": "artem",
+      "warehouseAddress": "г. Артем, ул. Солнечная 46, стр. 1",
+      "rcName": "Артем",
+      "cities": ["vladivostok","artem","ussuriysk"],
+      "salaryFrom": 117000,
+      "partnerUrl": null
+    },
+    {
+      "id": "ozon-sklad-vladivostok-zapadnyy",
+      "position": "Сотрудник склада (Владивосток, п. Западный)",
+      "warehouseCity": "vladivostok",
+      "warehouseAddress": "Приморский край, м.о. Надеждинский, п. Западный, тер. ТОР Приморье, д. 1",
+      "rcName": "СДФО Владивосток",
+      "cities": ["vladivostok","artem","nadezhdinskoe"],
+      "salaryTo": 117000,
+      "partnerUrl": null
+    },
+    {
+      "id": "ozon-sklad-volgograd",
+      "position": "Сотрудник склада (Волгоград)",
+      "warehouseCity": "volgograd",
+      "warehouseAddress": "г. Волгоград, Таймырский проезд, 2",
+      "rcName": "Волгоград",
+      "cities": ["volgograd","volzhskiy","krasnoslobodsk"],
+      "salaryTo": 94700,
+      "partnerUrl": null
+    },
+    {
+      "id": "ozon-sklad-dzerzhinsk",
+      "position": "Сотрудник склада (Дзержинск)",
+      "warehouseCity": "dzerzhinsk",
+      "warehouseAddress": "Нижегородская обл, г. Дзержинск, Игумновское шоссе, д. 5Г",
+      "rcName": "Дзержинск",
+      "cities": ["dzerzhinsk","nizhniy-novgorod","bogorodsk","zavolzhe","balahna"],
+      "salaryTo": 112000,
+      "partnerUrl": null
+    },
+    {
+      "id": "ozon-sklad-mahachkala",
+      "position": "Сотрудник склада (Махачкала)",
+      "warehouseCity": "mahachkala",
+      "warehouseAddress": "г. Махачкала, пос. Тюбе, ул. Заводская, зд. 11, стр. 1",
+      "rcName": "Махачкала",
+      "cities": ["mahachkala","kaspiysk","kizilyurt","bujnaksk"],
+      "salaryFrom": 83000,
+      "partnerUrl": null
+    },
+    {
+      "id": "ozon-sklad-nevinnomyssk",
+      "position": "Сотрудник склада (Невинномысск)",
+      "warehouseCity": "nevinnomyssk",
+      "warehouseAddress": "г. Невинномысск, ул. Приозерная. д. 25, стр. 1, к. 1",
+      "rcName": "Невинномысск",
+      "cities": ["nevinnomyssk","stavropol","mihaylovsk","cherkessk","armavir"],
+      "salaryFrom": 100000,
+      "partnerUrl": null
+    },
+    {
+      "id": "ozon-sklad-novosibirsk",
+      "position": "Сотрудник склада (Новосибирск)",
+      "warehouseCity": "novosibirsk",
+      "warehouseAddress": "Толмачевский с/с, н.п. 3307 км, ул. 3307 км, д. 16, кор. 8",
+      "rcName": "ФФ Новосибирск",
+      "cities": ["novosibirsk","ob","kochenevo","kolyvan","krivodanovka","verh-tula","krasnoobsk"],
+      "salaryTo": 113400,
+      "partnerUrl": null
+    },
+    {
+      "id": "ozon-sklad-tver-borovlevo",
+      "position": "Сотрудник склада (Тверь Боровлево)",
+      "warehouseCity": "tver",
+      "warehouseAddress": "г. Тверь, промышленная зона \"Боровлево-2\", комплекс 1А",
+      "rcName": "ФФ Тверь Боровлево",
+      "cities": ["tver","torzhok","mednoe","lihoslavl"],
+      "salaryTo": 113800,
+      "partnerUrl": null
+    },
+    {
+      "id": "ozon-sklad-habarovsk",
+      "position": "Сотрудник склада (Хабаровск)",
+      "warehouseCity": "habarovsk",
+      "warehouseAddress": "г. Хабаровск, ул. Донская, 2а",
+      "rcName": "Хабаровск",
+      "cities": ["habarovsk","berezovka","knyaze-volkonskoe","topolevo"],
+      "salaryTo": 148000,
+      "partnerUrl": null
+    },
+    {
+      "id": "ozon-sklad-habarovsk-specialist",
+      "position": "Специалист по обработке товаров (Хабаровск)",
+      "warehouseCity": "habarovsk",
+      "warehouseAddress": "г. Хабаровск, ул. Донская, 2а",
+      "rcName": "Хабаровск",
+      "cities": ["habarovsk","berezovka","knyaze-volkonskoe","topolevo"],
+      "salaryTo": 89800,
+      "partnerUrl": null
+    },
+    {
+      "id": "ozon-sklad-yaroslavl",
+      "position": "Сотрудник склада (Ярославль)",
+      "warehouseCity": "yaroslavl",
+      "warehouseAddress": "г. Ярославль, д. Корюково, ул. Торговая, зд. 3",
+      "rcName": "Ярославль",
+      "cities": ["yaroslavl","bragino","zavolga","rostov","kostroma"],
+      "salaryTo": 104000,
+      "partnerUrl": null
+    },
+    {
+      "id": "ozon-sklad-rostov-na-donu",
+      "position": "Сотрудник склада (Ростов-на-Дону)",
+      "warehouseCity": "rostov-na-donu",
+      "warehouseAddress": "Ростов. обл, Аксайский р-он, хутор Ленина, ул. Логопарк, д. 5",
+      "rcName": "Ростов-на-Дону",
+      "cities": ["rostov-na-donu","novocherkassk","shahty","aksay","bataysk","azov","taganrog"],
+      "salaryTo": 104800,
+      "partnerUrl": null
+    },
+    {
+      "id": "ozon-sklad-rostov-na-donu-specialist",
+      "position": "Специалист по обработке товаров (Ростов-на-Дону)",
+      "warehouseCity": "rostov-na-donu",
+      "warehouseAddress": "Ростов. обл, Аксайский р-он, хутор Ленина, ул. Логопарк, д. 5",
+      "rcName": "Ростов-на-Дону",
+      "cities": ["rostov-na-donu","novocherkassk","shahty","aksay","bataysk","azov","taganrog"],
+      "salaryTo": 91400,
+      "partnerUrl": null
+    },
+    {
+      "id": "ozon-sklad-voronezh-specialist",
+      "position": "Специалист по обработке товаров (Воронеж)",
+      "warehouseCity": "voronezh",
+      "warehouseAddress": "Рамонский р-он, Айдаровское сельское поселение, ул. 2-я промышленная зона, здание 1з",
+      "rcName": "Воронеж",
+      "cities": ["voronezh","novovoronezh","ramon","novaya-usman"],
+      "salaryTo": 82200,
+      "partnerUrl": null
+    }
+  ]
+}

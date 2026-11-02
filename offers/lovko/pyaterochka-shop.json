@@ -1,0 +1,88 @@
+{
+  "source": "Lovko",
+  "company": "Пятёрочка",
+  "logo": "images/pyaterochka.png",
+  "partnerType": "hired",
+  "partnerReward": "9500 ₽",
+  "defaults": {
+    "exp": "Без опыта",
+    "format": "Полная занятость",
+    "schedule": "Сменный",
+    "tags": ["noExperience", "shift"],
+    "pop": 70
+  },
+  "vacancies": [
+    {
+      "id": "pyaterochka-prodavec-moskva",
+      "position": "Продавец-кассир (Москва)",
+      "details": "Работа в магазине у дома. Обслуживание покупателей, работа на кассе.",
+      "prof": "Розница",
+      "salaryFrom": 80000, "salaryTo": 100000,
+      "cities": ["moskva"],
+      "tags": ["retail"],
+      "partnerUrl": null
+    },
+    {
+      "id": "pyaterochka-prodavec-mo",
+      "position": "Продавец-кассир (Московская область)",
+      "details": "Работа в магазине у дома. Обслуживание покупателей, работа на кассе.",
+      "prof": "Розница",
+      "salaryFrom": 65000, "salaryTo": 80000,
+      "cities": ["balashiha","himki","mytischi","korolev","lyubercy","krasnogorsk","dolgoprudnyy","odincovo","podolsk","domodedovo","sergiev-posad","schelkovo","pushkino","noginsk","orehovo-zuevo","ramenskoe","zhukovskiy","vidnoe","reutov","kotelniki","lytkarino","bronnicy","elektrostal","voskresensk","kolomna","egorevsk","kashira","stupino","serpukhov","chehov","naro-fominsk","mozhaysk","istra","klin","dmitrov","pushkin","lobnya","dubna","shatura","roshal","elektrogorsk","chernogolovka","pavlovskiy-posad","likino-dulevo","kurovskoe"],
+      "regions": ["moskovskaya-oblast"],
+      "tags": ["retail"],
+      "partnerUrl": null
+    },
+    {
+      "id": "pyaterochka-prodavec-spb",
+      "position": "Продавец-кассир (Санкт-Петербург)",
+      "details": "Работа в магазине у дома. Обслуживание покупателей, работа на кассе.",
+      "prof": "Розница",
+      "salaryFrom": 65000, "salaryTo": 85000,
+      "cities": ["sankt-peterburg"],
+      "tags": ["retail"],
+      "partnerUrl": null
+    },
+    {
+      "id": "pyaterochka-prodavec-lo",
+      "position": "Продавец-кассир (Ленинградская область)",
+      "details": "Работа в магазине у дома. Обслуживание покупателей, работа на кассе.",
+      "prof": "Розница",
+      "salaryFrom": 55000, "salaryTo": 75000,
+      "cities": ["shushary","pushkin","kolpino","metallostroy","murino","bugry","vsevolozhsk","gatchina"],
+      "regions": ["leningradskaya-oblast"],
+      "tags": ["retail"],
+      "partnerUrl": null
+    },
+    {
+      "id": "pyaterochka-prodavec-krasnodar",
+      "position": "Продавец-кассир (Краснодар)",
+      "details": "Работа в магазине у дома. Обслуживание покупателей, работа на кассе.",
+      "prof": "Розница",
+      "salaryFrom": 45000, "salaryTo": 60000,
+      "cities": ["krasnodar"],
+      "tags": ["retail"],
+      "partnerUrl": null
+    },
+    {
+      "id": "pyaterochka-sborschik-kazan",
+      "position": "Сборщик заказов (Казань)",
+      "details": "Сборка онлайн-заказов в магазине. Работа с приложением.",
+      "prof": "Розница",
+      "salaryFrom": 44700, "salaryTo": 60300,
+      "cities": ["kazan"],
+      "tags": ["retail", "picker"],
+      "partnerUrl": null
+    },
+    {
+      "id": "pyaterochka-sborschik-nn",
+      "position": "Сборщик заказов (Нижний Новгород)",
+      "details": "Сборка онлайн-заказов в магазине. Работа с приложением.",
+      "prof": "Розница",
+      "salaryFrom": 45700, "salaryTo": 61700,
+      "cities": ["nizhniy-novgorod"],
+      "tags": ["retail", "picker"],
+      "partnerUrl": null
+    }
+  ]
+}

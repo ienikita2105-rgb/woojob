@@ -1,0 +1,33 @@
+{
+  "source": "Lovko",
+  "company": "Магнит",
+  "logo": "images/magnit.png",
+  "partnerType": "lead",
+  "partnerReward": "440 ₽",
+  "defaults": {
+    "prof": "Логистика",
+    "exp": "Без опыта",
+    "format": "Полная занятость",
+    "schedule": "Гибкий",
+    "tags": ["noExperience", "courier", "driver", "car"],
+    "requirements": ["Личный автомобиль"],
+    "vehicleRequirements": "Личный автомобиль",
+    "pop": 75
+  },
+  "vacancies": [
+    {
+      "id": "magnit-voditel-kurier",
+      "position": "Водитель-курьер на личном авто (гибрид)",
+      "details": "Доставка заказов из магазинов Магнит на личном автомобиле.",
+      "salaryFrom": 97200,
+      "salaryTo": 457200,
+      "scheduleNote": "Зарплата зависит от города",
+      "cities": [
+        "moskva","sankt-peterburg","novosibirsk","ekaterinburg","kazan",
+        "nizhniy-novgorod","chelyabinsk","omsk","samara","rostov-na-donu",
+        "ufa","krasnoyarsk","voronezh","perm","volgograd"
+      ],
+      "partnerUrl": null
+    }
+  ]
+}

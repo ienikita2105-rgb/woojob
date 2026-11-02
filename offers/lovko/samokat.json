@@ -1,0 +1,31 @@
+{
+  "source": "Lovko",
+  "company": "Самокат",
+  "logo": "images/samokat.png",
+  "partnerType": "registration",
+  "partnerReward": "1500 ₽",
+  "defaults": {
+    "prof": "Логистика",
+    "exp": "Без опыта",
+    "format": "Подработка",
+    "schedule": "Гибкий",
+    "tags": ["noExperience", "courier", "partTime"],
+    "details": "Доставка продуктов из дарксторов Самокат. Гибкий график.",
+    "pop": 90
+  },
+  "vacancies": [
+    {
+      "id": "samokat-kurier",
+      "position": "Курьер",
+      "salaryTo": 191888,
+      "salaryNote": "до 191 888 ₽/мес",
+      "cities": [
+        "barnaul","voronezh","ekaterinburg","izhevsk","kostroma",
+        "krasnoyarsk","lipetsk","nefteyugansk","nizhniy-tagil","novosibirsk",
+        "omsk","orel","perm","petrozavodsk","samara","sankt-peterburg",
+        "smolensk","tolyatti","tyumen","chelyabinsk","yaroslavl"
+      ],
+      "partnerUrl": null
+    }
+  ]
+}

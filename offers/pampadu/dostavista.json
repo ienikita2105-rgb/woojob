@@ -1,0 +1,40 @@
+{
+  "source": "Pampadu",
+  "company": "Достависта",
+  "logo": "images/dostavista.png",
+  "partnerType": "registration_plus_activity",
+  "partnerReward": "до 7500 ₽",
+  "defaults": {
+    "prof": "Логистика",
+    "exp": "Без опыта",
+    "format": "Подработка",
+    "schedule": "Гибкий",
+    "tags": ["noExperience", "courier", "partTime"],
+    "citizenship": "rf_eaes",
+    "ageFrom": 18,
+    "requirements": ["Гражданство РФ или ЕАЭС", "СМЗ"],
+    "vehicleRequirements": "Пеший / вело / авто",
+    "details": "Курьер-партнёр. Пеший / вело / авто. СМЗ.",
+    "pop": 65
+  },
+  "vacancies": [
+    {
+      "id": "dostavista-kurier-moskva",
+      "position": "Курьер-партнёр (Москва)",
+      "cities": ["moskva"],
+      "salaryTo": 150000,
+      "salaryNote": "до 150 000 ₽/мес (зависит от количества заказов)",
+      "partnerReward": "до 7500 ₽",
+      "partnerUrl": null
+    },
+    {
+      "id": "dostavista-kurier-spb",
+      "position": "Курьер-партнёр (Санкт-Петербург)",
+      "cities": ["sankt-peterburg"],
+      "salaryTo": 120000,
+      "salaryNote": "до 120 000 ₽/мес (зависит от количества заказов)",
+      "partnerReward": "до 4875 ₽",
+      "partnerUrl": null
+    }
+  ]
+}
