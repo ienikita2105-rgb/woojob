@@ -64,5 +64,20 @@
   },
   "alfabank-malye-goroda": {
     "partnerUrl": "https://trk.ppdu.ru/click/Am0oCkAj?erid=2SDnjcN7Hxq&sub1=woojob&sub2=alfa-malye&sub3=malye-goroda"
+  },
+  "dostavista-kurier-moskva": {
+    "partnerUrl": "https://trk.ppdu.ru/click/BZPDlFXh?erid=2SDnjcr4Hwc&sub1=woojob&sub2=dostavista&sub3=moskva"
+  },
+  "dostavista-kurier-spb": {
+    "partnerUrl": "https://trk.ppdu.ru/click/BZPDlFXh?erid=2SDnjcr4Hwc&sub1=woojob&sub2=dostavista&sub3=spb"
+  },
+  "efin-vyezdnoy-predstavitel": {
+    "partnerUrl": "https://trk.ppdu.ru/click/eJblaKy9?erid=2SDnjdmxiVK&sub1=woojob&sub2=efin&sub3=vyezdnoy"
+  },
+  "tetrika-prepodavatel-vvodnyh": {
+    "partnerUrl": "https://trk.ppdu.ru/click/X8Lp6iK5?erid=2SDnjdwr6bW&sub1=woojob&sub2=tetrika&sub3=prepodavatel"
+  },
+  "mts-operator-call-centra": {
+    "partnerUrl": "https://trk.ppdu.ru/click/3bcZLDct?erid=2SDnjdhc8em&sub1=woojob&sub2=mts&sub3=operator"
   }
 }
