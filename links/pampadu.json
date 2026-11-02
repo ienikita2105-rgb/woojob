@@ -1,17 +1,65 @@
 {
   "yandex-eda-kurier-peshiy-velo": {
-    "partnerUrl": "https://trk.ppdu.ru/click/E4HFRE7n?erid=CQH36pWzJqVGXC5oLP8WVVNCNqJmbhiUPijGiu4zpwPd7G"
+    "partnerUrl": "https://trk.ppdu.ru/click/E4HFRE7n?erid=CQH36pWzJqVGXC5oLP8WVVNCNqJmbhiUPijGiu4zpwPd7G&sub1=woojob&sub2=yandex-eda&sub3=peshiy-velo"
   },
   "yandex-eda-kurier-avto": {
-    "partnerUrl": "https://trk.ppdu.ru/click/E4HFRE7n?erid=CQH36pWzJqVGXC5oLP8WVVNCNqJmbhiUPijGiu4zpwPd7G"
+    "partnerUrl": "https://trk.ppdu.ru/click/E4HFRE7n?erid=CQH36pWzJqVGXC5oLP8WVVNCNqJmbhiUPijGiu4zpwPd7G&sub1=woojob&sub2=yandex-eda&sub3=avto"
   },
   "zaryad-prodavec": {
-    "partnerUrl": "https://trk.ppdu.ru/click/v7KdiJe1?erid=2SDnjc9AKti"
+    "partnerUrl": "https://trk.ppdu.ru/click/v7KdiJe1?erid=2SDnjc9AKti&sub1=woojob&sub2=zaryad&sub3=prodavec"
   },
   "zaryad-povar": {
-    "partnerUrl": "https://trk.ppdu.ru/click/v7KdiJe1?erid=2SDnjc9AKti"
+    "partnerUrl": "https://trk.ppdu.ru/click/v7KdiJe1?erid=2SDnjc9AKti&sub1=woojob&sub2=zaryad&sub3=povar"
   },
   "zaryad-administrator": {
-    "partnerUrl": "https://trk.ppdu.ru/click/v7KdiJe1?erid=2SDnjc9AKti"
+    "partnerUrl": "https://trk.ppdu.ru/click/v7KdiJe1?erid=2SDnjc9AKti&sub1=woojob&sub2=zaryad&sub3=administrator"
+  },
+  "kuper-voditel-kurier-planovaya": {
+    "partnerUrl": "https://trk.ppdu.ru/click/CjUqUfSY?erid=2SDnjeL6Zwp&sub1=woojob&sub2=kuper&sub3=voditel-planovaya"
+  },
+  "kuper-voditel-kurier-gruzovoy": {
+    "partnerUrl": "https://trk.ppdu.ru/click/CjUqUfSY?erid=2SDnjeL6Zwp&sub1=woojob&sub2=kuper&sub3=voditel-gruzovoy"
+  },
+  "kuper-voditel-arendnoe-avto": {
+    "partnerUrl": "https://trk.ppdu.ru/click/CjUqUfSY?erid=2SDnjeL6Zwp&sub1=woojob&sub2=kuper&sub3=voditel-arendnoe"
+  },
+  "kuper-sborschik-planovaya": {
+    "partnerUrl": "https://trk.ppdu.ru/click/CjUqUfSY?erid=2SDnjeL6Zwp&sub1=woojob&sub2=kuper&sub3=sborschik-planovaya"
+  },
+  "kuper-sborschik-nochnoy": {
+    "partnerUrl": "https://trk.ppdu.ru/click/CjUqUfSY?erid=2SDnjeL6Zwp&sub1=woojob&sub2=kuper&sub3=sborschik-nochnoy"
+  },
+  "kuper-velokurier-bystraya": {
+    "partnerUrl": "https://trk.ppdu.ru/click/CjUqUfSY?erid=2SDnjeL6Zwp&sub1=woojob&sub2=kuper&sub3=velokurier"
+  },
+  "kuper-voditel-kurier-bystraya": {
+    "partnerUrl": "https://trk.ppdu.ru/click/CjUqUfSY?erid=2SDnjeL6Zwp&sub1=woojob&sub2=kuper&sub3=voditel-bystraya"
+  },
+  "kuper-voditel-arendnoe-avto-bystraya": {
+    "partnerUrl": "https://trk.ppdu.ru/click/CjUqUfSY?erid=2SDnjeL6Zwp&sub1=woojob&sub2=kuper&sub3=voditel-arendnoe-bystraya"
+  },
+  "kuper-peshiy-kurier-bystraya": {
+    "partnerUrl": "https://trk.ppdu.ru/click/CjUqUfSY?erid=2SDnjeL6Zwp&sub1=woojob&sub2=kuper&sub3=peshiy-bystraya"
+  },
+  "alfabank-mobilnyy-bankir-fl": {
+    "partnerUrl": "https://trk.ppdu.ru/click/5sA6QNcH?erid=2SDnjbsvvT3&sub1=woojob&sub2=alfa&sub3=mobilnyy-bankir"
+  },
+  "alfabank-dostavka-mmb-ul": {
+    "partnerUrl": "https://trk.ppdu.ru/click/5sA6QNcH?erid=2SDnjbsvvT3&sub1=woojob&sub2=alfa&sub3=dostavka-mmb-ul"
+  },
+  "alfabank-dostavka-mmb-ul-nadomniki": {
+    "partnerUrl": "https://trk.ppdu.ru/click/5sA6QNcH?erid=2SDnjbsvvT3&sub1=woojob&sub2=alfa&sub3=mmb-ul-nadomniki"
+  },
+  "alfabank-dostavka-fl-nadomniki": {
+    "partnerUrl": "https://trk.ppdu.ru/click/5sA6QNcH?erid=2SDnjbsvvT3&sub1=woojob&sub2=alfa&sub3=fl-nadomniki"
+  },
+  "alfabank-dsa": {
+    "partnerUrl": "https://trk.ppdu.ru/click/5sA6QNcH?erid=2SDnjbsvvT3&sub1=woojob&sub2=alfa&sub3=dsa"
+  },
+  "alfabank-premium-menedzher": {
+    "partnerUrl": "https://trk.ppdu.ru/click/5sA6QNcH?erid=2SDnjbsvvT3&sub1=woojob&sub2=alfa&sub3=premium"
+  },
+  "alfabank-menedzher-mb": {
+    "partnerUrl": "https://trk.ppdu.ru/click/5sA6QNcH?erid=2SDnjbsvvT3&sub1=woojob&sub2=alfa&sub3=menedzher-mb"
   }
 }
