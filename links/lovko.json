@@ -1,5 +1,137 @@
 {
   "samokat-kurier": {
     "partnerUrl": "https://tracking.lovko.pro/click?pid=5394&offer_id=133&sub1=woojob&sub2=samokat&sub3=kurier"
+  },
+  "pyaterochka-prodavec-moskva": {
+    "partnerUrl": "https://tracking.lovko.pro/click?pid=5394&offer_id=60&sub1=woojob&sub2=pyaterochka-shop&sub3=prodavec"
+  },
+  "pyaterochka-prodavec-mo": {
+    "partnerUrl": "https://tracking.lovko.pro/click?pid=5394&offer_id=60&sub1=woojob&sub2=pyaterochka-shop&sub3=prodavec"
+  },
+  "pyaterochka-prodavec-spb": {
+    "partnerUrl": "https://tracking.lovko.pro/click?pid=5394&offer_id=60&sub1=woojob&sub2=pyaterochka-shop&sub3=prodavec"
+  },
+  "pyaterochka-prodavec-lo": {
+    "partnerUrl": "https://tracking.lovko.pro/click?pid=5394&offer_id=60&sub1=woojob&sub2=pyaterochka-shop&sub3=prodavec"
+  },
+  "pyaterochka-prodavec-krasnodar": {
+    "partnerUrl": "https://tracking.lovko.pro/click?pid=5394&offer_id=60&sub1=woojob&sub2=pyaterochka-shop&sub3=prodavec"
+  },
+  "pyaterochka-sborschik-kazan": {
+    "partnerUrl": "https://tracking.lovko.pro/click?pid=5394&offer_id=60&sub1=woojob&sub2=pyaterochka-shop&sub3=sborschik"
+  },
+  "pyaterochka-sborschik-nn": {
+    "partnerUrl": "https://tracking.lovko.pro/click?pid=5394&offer_id=60&sub1=woojob&sub2=pyaterochka-shop&sub3=sborschik"
+  },
+  "x5-dostavka-voditel": {
+    "partnerUrl": "https://tracking.lovko.pro/click?pid=5394&offer_id=40&sub1=woojob&sub2=x5&sub3=voditel"
+  },
+  "x5-dostavka-sborschik": {
+    "partnerUrl": "https://tracking.lovko.pro/click?pid=5394&offer_id=40&sub1=woojob&sub2=x5&sub3=sborschik"
+  },
+  "pyaterochka-rc-volgograd": {
+    "partnerUrl": "https://tracking.lovko.pro/click?pid=5394&offer_id=53&sub1=woojob&sub2=pyaterochka-rc&sub3=operator"
+  },
+  "pyaterochka-rc-elabuga": {
+    "partnerUrl": "https://tracking.lovko.pro/click?pid=5394&offer_id=53&sub1=woojob&sub2=pyaterochka-rc&sub3=operator"
+  },
+  "pyaterochka-rc-kazan": {
+    "partnerUrl": "https://tracking.lovko.pro/click?pid=5394&offer_id=53&sub1=woojob&sub2=pyaterochka-rc&sub3=operator"
+  },
+  "pyaterochka-rc-krasnoyarsk": {
+    "partnerUrl": "https://tracking.lovko.pro/click?pid=5394&offer_id=53&sub1=woojob&sub2=pyaterochka-rc&sub3=operator"
+  },
+  "pyaterochka-rc-tolmachevo": {
+    "partnerUrl": "https://tracking.lovko.pro/click?pid=5394&offer_id=53&sub1=woojob&sub2=pyaterochka-rc&sub3=operator"
+  },
+  "pyaterochka-rc-adamant": {
+    "partnerUrl": "https://tracking.lovko.pro/click?pid=5394&offer_id=53&sub1=woojob&sub2=pyaterochka-rc&sub3=operator"
+  },
+  "pyaterochka-rc-bogorodsk": {
+    "partnerUrl": "https://tracking.lovko.pro/click?pid=5394&offer_id=53&sub1=woojob&sub2=pyaterochka-rc&sub3=operator"
+  },
+  "pyaterochka-rc-velikiy-novgorod": {
+    "partnerUrl": "https://tracking.lovko.pro/click?pid=5394&offer_id=53&sub1=woojob&sub2=pyaterochka-rc&sub3=operator"
+  },
+  "pyaterochka-rc-vidnoe": {
+    "partnerUrl": "https://tracking.lovko.pro/click?pid=5394&offer_id=53&sub1=woojob&sub2=pyaterochka-rc&sub3=operator"
+  },
+  "pyaterochka-rc-voronezh-ramon": {
+    "partnerUrl": "https://tracking.lovko.pro/click?pid=5394&offer_id=53&sub1=woojob&sub2=pyaterochka-rc&sub3=operator"
+  },
+  "pyaterochka-rc-vorsino": {
+    "partnerUrl": "https://tracking.lovko.pro/click?pid=5394&offer_id=53&sub1=woojob&sub2=pyaterochka-rc&sub3=operator"
+  },
+  "pyaterochka-rc-vyatka": {
+    "partnerUrl": "https://tracking.lovko.pro/click?pid=5394&offer_id=53&sub1=woojob&sub2=pyaterochka-rc&sub3=operator"
+  },
+  "pyaterochka-rc-dzerzhinsk": {
+    "partnerUrl": "https://tracking.lovko.pro/click?pid=5394&offer_id=53&sub1=woojob&sub2=pyaterochka-rc&sub3=operator"
+  },
+  "pyaterochka-rc-ekaterinburg": {
+    "partnerUrl": "https://tracking.lovko.pro/click?pid=5394&offer_id=53&sub1=woojob&sub2=pyaterochka-rc&sub3=operator"
+  },
+  "pyaterochka-rc-kemerovo": {
+    "partnerUrl": "https://tracking.lovko.pro/click?pid=5394&offer_id=53&sub1=woojob&sub2=pyaterochka-rc&sub3=operator"
+  },
+  "pyaterochka-rc-kstovo": {
+    "partnerUrl": "https://tracking.lovko.pro/click?pid=5394&offer_id=53&sub1=woojob&sub2=pyaterochka-rc&sub3=operator"
+  },
+  "pyaterochka-rc-tambov": {
+    "partnerUrl": "https://tracking.lovko.pro/click?pid=5394&offer_id=53&sub1=woojob&sub2=pyaterochka-rc&sub3=operator"
+  },
+  "pyaterochka-rc-kuzneck": {
+    "partnerUrl": "https://tracking.lovko.pro/click?pid=5394&offer_id=53&sub1=woojob&sub2=pyaterochka-rc&sub3=operator"
+  },
+  "pyaterochka-rc-kursk": {
+    "partnerUrl": "https://tracking.lovko.pro/click?pid=5394&offer_id=53&sub1=woojob&sub2=pyaterochka-rc&sub3=operator"
+  },
+  "pyaterochka-rc-lobnya": {
+    "partnerUrl": "https://tracking.lovko.pro/click?pid=5394&offer_id=53&sub1=woojob&sub2=pyaterochka-rc&sub3=operator"
+  },
+  "pyaterochka-rc-moskva-sever": {
+    "partnerUrl": "https://tracking.lovko.pro/click?pid=5394&offer_id=53&sub1=woojob&sub2=pyaterochka-rc&sub3=operator"
+  },
+  "pyaterochka-rc-nevinnomyssk": {
+    "partnerUrl": "https://tracking.lovko.pro/click?pid=5394&offer_id=53&sub1=woojob&sub2=pyaterochka-rc&sub3=operator"
+  },
+  "pyaterochka-rc-novaya-riga": {
+    "partnerUrl": "https://tracking.lovko.pro/click?pid=5394&offer_id=53&sub1=woojob&sub2=pyaterochka-rc&sub3=operator"
+  },
+  "pyaterochka-rc-perm-2": {
+    "partnerUrl": "https://tracking.lovko.pro/click?pid=5394&offer_id=53&sub1=woojob&sub2=pyaterochka-rc&sub3=operator"
+  },
+  "pyaterochka-rc-petrozavodsk": {
+    "partnerUrl": "https://tracking.lovko.pro/click?pid=5394&offer_id=53&sub1=woojob&sub2=pyaterochka-rc&sub3=operator"
+  },
+  "pyaterochka-rc-podolsk": {
+    "partnerUrl": "https://tracking.lovko.pro/click?pid=5394&offer_id=53&sub1=woojob&sub2=pyaterochka-rc&sub3=operator"
+  },
+  "pyaterochka-rc-rostov": {
+    "partnerUrl": "https://tracking.lovko.pro/click?pid=5394&offer_id=53&sub1=woojob&sub2=pyaterochka-rc&sub3=operator"
+  },
+  "pyaterochka-rc-ryazan": {
+    "partnerUrl": "https://tracking.lovko.pro/click?pid=5394&offer_id=53&sub1=woojob&sub2=pyaterochka-rc&sub3=operator"
+  },
+  "pyaterochka-rc-samara": {
+    "partnerUrl": "https://tracking.lovko.pro/click?pid=5394&offer_id=53&sub1=woojob&sub2=pyaterochka-rc&sub3=operator"
+  },
+  "pyaterochka-rc-saratov": {
+    "partnerUrl": "https://tracking.lovko.pro/click?pid=5394&offer_id=53&sub1=woojob&sub2=pyaterochka-rc&sub3=operator"
+  },
+  "pyaterochka-rc-utkina-zavod": {
+    "partnerUrl": "https://tracking.lovko.pro/click?pid=5394&offer_id=53&sub1=woojob&sub2=pyaterochka-rc&sub3=operator"
+  },
+  "pyaterochka-rc-ufa": {
+    "partnerUrl": "https://tracking.lovko.pro/click?pid=5394&offer_id=53&sub1=woojob&sub2=pyaterochka-rc&sub3=operator"
+  },
+  "pyaterochka-rc-forpost": {
+    "partnerUrl": "https://tracking.lovko.pro/click?pid=5394&offer_id=53&sub1=woojob&sub2=pyaterochka-rc&sub3=operator"
+  },
+  "pyaterochka-rc-yuzhny": {
+    "partnerUrl": "https://tracking.lovko.pro/click?pid=5394&offer_id=53&sub1=woojob&sub2=pyaterochka-rc&sub3=operator"
+  },
+  "pyaterochka-rc-yaroslavl": {
+    "partnerUrl": "https://tracking.lovko.pro/click?pid=5394&offer_id=53&sub1=woojob&sub2=pyaterochka-rc&sub3=operator"
   }
 }
