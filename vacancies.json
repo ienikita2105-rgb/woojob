@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-11-02",
+  "updated": "2026-11-10",
   "cities": [
     {
       "slug": "moskva",
@@ -3672,7 +3672,7 @@
       "bonuses": [],
       "priorityCities": [],
       "pop": 75,
-      "logo": "images/delovye-linii.png",
+      "logo": "images/dellin.png",
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "500 ₽",
@@ -3733,7 +3733,7 @@
       "bonuses": [],
       "priorityCities": [],
       "pop": 75,
-      "logo": "images/delovye-linii.png",
+      "logo": "images/dellin.png",
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "500 ₽",
@@ -12145,9 +12145,9 @@
     {
       "id": "samokat-kurier",
       "source": "Lovko",
-      "company": "Самокат",
-      "position": "Курьер",
-      "details": "Доставка продуктов из дарксторов Самокат. Гибкий график.",
+      "company": "Партнёрская доставка Самоката",
+      "position": "Курьер-партнёр",
+      "details": "Партнёрская доставка. Гибкие слоты от 2 часов, доход, надбавки за погоду и выходные, еженедельные выплаты.",
       "fullDescription": null,
       "prof": "Логистика",
       "salaryFrom": null,
@@ -12200,7 +12200,10 @@
       "gender": "any",
       "ageFrom": null,
       "ageTo": null,
-      "requirements": [],
+      "requirements": [
+        "Возраст 18–50 лет",
+        "Гражданство РФ"
+      ],
       "vehicleRequirements": null,
       "referralBonus": null,
       "performanceBonus": null,
@@ -12213,7 +12216,7 @@
       "priorityCities": [],
       "pop": 90,
       "logo": "images/samokat.png",
-      "partnerUrl": null,
+      "partnerUrl": "https://tracking.lovko.pro/click?pid=5394&offer_id=133&sub1=woojob&sub2=samokat&sub3=kurier",
       "partnerType": "registration",
       "partnerReward": "1500 ₽",
       "active": true
@@ -14537,7 +14540,7 @@
       "priorityCities": [],
       "pop": 60,
       "logo": "images/alfabank.png",
-      "partnerUrl": null,
+      "partnerUrl": "https://trk.ppdu.ru/click/Am0oCkAj?erid=2SDnjcN7Hxq&sub1=woojob&sub2=alfa-malye&sub3=malye-goroda",
       "partnerType": "hired",
       "partnerReward": "6148 ₽ (трудоустройство)",
       "active": true
@@ -14599,7 +14602,7 @@
       "priorityCities": [],
       "pop": 62,
       "logo": "images/alfabank.png",
-      "partnerUrl": null,
+      "partnerUrl": "https://trk.ppdu.ru/click/5sA6QNcH?erid=2SDnjbsvvT3&sub1=woojob&sub2=alfa&sub3=mobilnyy-bankir",
       "partnerType": "hired",
       "partnerReward": "614 ₽ (одобрен) / 5532 ₽ (трудоустройство)",
       "active": true
@@ -14661,7 +14664,7 @@
       "priorityCities": [],
       "pop": 62,
       "logo": "images/alfabank.png",
-      "partnerUrl": null,
+      "partnerUrl": "https://trk.ppdu.ru/click/5sA6QNcH?erid=2SDnjbsvvT3&sub1=woojob&sub2=alfa&sub3=dostavka-mmb-ul",
       "partnerType": "hired",
       "partnerReward": "614 ₽ (одобрен) / 5532 ₽ (трудоустройство)",
       "active": true
@@ -14723,7 +14726,7 @@
       "priorityCities": [],
       "pop": 62,
       "logo": "images/alfabank.png",
-      "partnerUrl": null,
+      "partnerUrl": "https://trk.ppdu.ru/click/5sA6QNcH?erid=2SDnjbsvvT3&sub1=woojob&sub2=alfa&sub3=mmb-ul-nadomniki",
       "partnerType": "hired",
       "partnerReward": "614 ₽ (одобрен) / 5532 ₽ (трудоустройство)",
       "active": true
@@ -14785,7 +14788,7 @@
       "priorityCities": [],
       "pop": 62,
       "logo": "images/alfabank.png",
-      "partnerUrl": null,
+      "partnerUrl": "https://trk.ppdu.ru/click/5sA6QNcH?erid=2SDnjbsvvT3&sub1=woojob&sub2=alfa&sub3=fl-nadomniki",
       "partnerType": "hired",
       "partnerReward": "614 ₽ (одобрен) / 5532 ₽ (трудоустройство)",
       "active": true
@@ -14847,7 +14850,7 @@
       "priorityCities": [],
       "pop": 62,
       "logo": "images/alfabank.png",
-      "partnerUrl": null,
+      "partnerUrl": "https://trk.ppdu.ru/click/5sA6QNcH?erid=2SDnjbsvvT3&sub1=woojob&sub2=alfa&sub3=dsa",
       "partnerType": "hired",
       "partnerReward": "614 ₽ (одобрен) / 5532 ₽ (трудоустройство)",
       "active": true
@@ -14909,7 +14912,7 @@
       "priorityCities": [],
       "pop": 62,
       "logo": "images/alfabank.png",
-      "partnerUrl": null,
+      "partnerUrl": "https://trk.ppdu.ru/click/5sA6QNcH?erid=2SDnjbsvvT3&sub1=woojob&sub2=alfa&sub3=premium",
       "partnerType": "hired",
       "partnerReward": "614 ₽ (одобрен) / 5532 ₽ (трудоустройство)",
       "active": true
@@ -14971,7 +14974,7 @@
       "priorityCities": [],
       "pop": 62,
       "logo": "images/alfabank.png",
-      "partnerUrl": null,
+      "partnerUrl": "https://trk.ppdu.ru/click/5sA6QNcH?erid=2SDnjbsvvT3&sub1=woojob&sub2=alfa&sub3=menedzher-mb",
       "partnerType": "hired",
       "partnerReward": "614 ₽ (одобрен) / 5532 ₽ (трудоустройство)",
       "active": true
@@ -15030,7 +15033,7 @@
       "priorityCities": [],
       "pop": 65,
       "logo": "images/dostavista.png",
-      "partnerUrl": null,
+      "partnerUrl": "https://trk.ppdu.ru/click/BZPDlFXh?erid=2SDnjcr4Hwc&sub1=woojob&sub2=dostavista&sub3=moskva",
       "partnerType": "registration_plus_activity",
       "partnerReward": "до 7500 ₽",
       "active": true
@@ -15089,7 +15092,7 @@
       "priorityCities": [],
       "pop": 65,
       "logo": "images/dostavista.png",
-      "partnerUrl": null,
+      "partnerUrl": "https://trk.ppdu.ru/click/BZPDlFXh?erid=2SDnjcr4Hwc&sub1=woojob&sub2=dostavista&sub3=spb",
       "partnerType": "registration_plus_activity",
       "partnerReward": "до 4875 ₽",
       "active": true
@@ -15203,7 +15206,7 @@
       "priorityCities": [],
       "pop": 72,
       "logo": "images/efin.png",
-      "partnerUrl": null,
+      "partnerUrl": "https://trk.ppdu.ru/click/eJblaKy9?erid=2SDnjdmxiVK&sub1=woojob&sub2=efin&sub3=vyezdnoy",
       "partnerType": "hired_plus_activity",
       "partnerReward": "14000 ₽",
       "active": true
@@ -15279,7 +15282,7 @@
       "priorityCities": [],
       "pop": 68,
       "logo": "images/kuper.png",
-      "partnerUrl": null,
+      "partnerUrl": "https://trk.ppdu.ru/click/CjUqUfSY?erid=2SDnjeL6Zwp&sub1=woojob&sub2=kuper&sub3=voditel-planovaya",
       "partnerType": "hired_plus_activity",
       "partnerReward": "11200 ₽",
       "active": true
@@ -15355,7 +15358,7 @@
       "priorityCities": [],
       "pop": 68,
       "logo": "images/kuper.png",
-      "partnerUrl": null,
+      "partnerUrl": "https://trk.ppdu.ru/click/CjUqUfSY?erid=2SDnjeL6Zwp&sub1=woojob&sub2=kuper&sub3=voditel-gruzovoy",
       "partnerType": "hired_plus_activity",
       "partnerReward": "11200 ₽",
       "active": true
@@ -15431,7 +15434,7 @@
       "priorityCities": [],
       "pop": 68,
       "logo": "images/kuper.png",
-      "partnerUrl": null,
+      "partnerUrl": "https://trk.ppdu.ru/click/CjUqUfSY?erid=2SDnjeL6Zwp&sub1=woojob&sub2=kuper&sub3=voditel-arendnoe",
       "partnerType": "hired_plus_activity",
       "partnerReward": "11200 ₽",
       "active": true
@@ -15504,7 +15507,7 @@
       "priorityCities": [],
       "pop": 68,
       "logo": "images/kuper.png",
-      "partnerUrl": null,
+      "partnerUrl": "https://trk.ppdu.ru/click/CjUqUfSY?erid=2SDnjeL6Zwp&sub1=woojob&sub2=kuper&sub3=sborschik-planovaya",
       "partnerType": "hired_plus_activity",
       "partnerReward": "11200 ₽",
       "active": true
@@ -15578,7 +15581,7 @@
       "priorityCities": [],
       "pop": 68,
       "logo": "images/kuper.png",
-      "partnerUrl": null,
+      "partnerUrl": "https://trk.ppdu.ru/click/CjUqUfSY?erid=2SDnjeL6Zwp&sub1=woojob&sub2=kuper&sub3=sborschik-nochnoy",
       "partnerType": "hired_plus_activity",
       "partnerReward": "11200 ₽",
       "active": true
@@ -15652,7 +15655,7 @@
       "priorityCities": [],
       "pop": 68,
       "logo": "images/kuper.png",
-      "partnerUrl": null,
+      "partnerUrl": "https://trk.ppdu.ru/click/CjUqUfSY?erid=2SDnjeL6Zwp&sub1=woojob&sub2=kuper&sub3=velokurier",
       "partnerType": "hired_plus_activity",
       "partnerReward": "11200 ₽",
       "active": true
@@ -15728,7 +15731,7 @@
       "priorityCities": [],
       "pop": 68,
       "logo": "images/kuper.png",
-      "partnerUrl": null,
+      "partnerUrl": "https://trk.ppdu.ru/click/CjUqUfSY?erid=2SDnjeL6Zwp&sub1=woojob&sub2=kuper&sub3=voditel-bystraya",
       "partnerType": "hired_plus_activity",
       "partnerReward": "11200 ₽",
       "active": true
@@ -15804,7 +15807,7 @@
       "priorityCities": [],
       "pop": 68,
       "logo": "images/kuper.png",
-      "partnerUrl": null,
+      "partnerUrl": "https://trk.ppdu.ru/click/CjUqUfSY?erid=2SDnjeL6Zwp&sub1=woojob&sub2=kuper&sub3=voditel-arendnoe-bystraya",
       "partnerType": "hired_plus_activity",
       "partnerReward": "11200 ₽",
       "active": true
@@ -15878,7 +15881,7 @@
       "priorityCities": [],
       "pop": 68,
       "logo": "images/kuper.png",
-      "partnerUrl": null,
+      "partnerUrl": "https://trk.ppdu.ru/click/CjUqUfSY?erid=2SDnjeL6Zwp&sub1=woojob&sub2=kuper&sub3=peshiy-bystraya",
       "partnerType": "hired_plus_activity",
       "partnerReward": "11200 ₽",
       "active": true
@@ -15972,7 +15975,7 @@
       "priorityCities": [],
       "pop": 60,
       "logo": "images/mts.png",
-      "partnerUrl": null,
+      "partnerUrl": "https://trk.ppdu.ru/click/3bcZLDct?erid=2SDnjdhc8em&sub1=woojob&sub2=mts&sub3=operator",
       "partnerType": "hired",
       "partnerReward": "6493 ₽ (СЗ) / 6060 ₽ (ФЗ)",
       "active": true
@@ -16027,7 +16030,7 @@
       "priorityCities": [],
       "pop": 60,
       "logo": "images/tetrika.png",
-      "partnerUrl": null,
+      "partnerUrl": "https://trk.ppdu.ru/click/X8Lp6iK5?erid=2SDnjdwr6bW&sub1=woojob&sub2=tetrika&sub3=prepodavatel",
       "partnerType": "hired",
       "partnerReward": "5680 ₽",
       "active": true
@@ -16085,7 +16088,7 @@
       "priorityCities": [],
       "pop": 90,
       "logo": "images/yandex-eda.png",
-      "partnerUrl": null,
+      "partnerUrl": "https://trk.ppdu.ru/click/E4HFRE7n?erid=CQH36pWzJqVGXC5oLP8WVVNCNqJmbhiUPijGiu4zpwPd7G&sub1=woojob&sub2=yandex-eda&sub3=peshiy-velo",
       "partnerType": "hired_plus_activity",
       "partnerReward": "до 44 000 ₽",
       "active": true
@@ -16143,7 +16146,7 @@
       "priorityCities": [],
       "pop": 90,
       "logo": "images/yandex-eda.png",
-      "partnerUrl": null,
+      "partnerUrl": "https://trk.ppdu.ru/click/E4HFRE7n?erid=CQH36pWzJqVGXC5oLP8WVVNCNqJmbhiUPijGiu4zpwPd7G&sub1=woojob&sub2=yandex-eda&sub3=avto",
       "partnerType": "hired_plus_activity",
       "partnerReward": "до 44 000 ₽",
       "active": true
@@ -16206,7 +16209,7 @@
       "priorityCities": [],
       "pop": 65,
       "logo": "images/zaryad.png",
-      "partnerUrl": null,
+      "partnerUrl": "https://trk.ppdu.ru/click/v7KdiJe1?erid=2SDnjc9AKti&sub1=woojob&sub2=zaryad&sub3=prodavec",
       "partnerType": "hired",
       "partnerReward": "10500 ₽",
       "active": true
@@ -16270,7 +16273,7 @@
       "priorityCities": [],
       "pop": 65,
       "logo": "images/zaryad.png",
-      "partnerUrl": null,
+      "partnerUrl": "https://trk.ppdu.ru/click/v7KdiJe1?erid=2SDnjc9AKti&sub1=woojob&sub2=zaryad&sub3=povar",
       "partnerType": "hired",
       "partnerReward": "10500 ₽",
       "active": true
@@ -16333,7 +16336,7 @@
       "priorityCities": [],
       "pop": 65,
       "logo": "images/zaryad.png",
-      "partnerUrl": null,
+      "partnerUrl": "https://trk.ppdu.ru/click/v7KdiJe1?erid=2SDnjc9AKti&sub1=woojob&sub2=zaryad&sub3=administrator",
       "partnerType": "hired",
       "partnerReward": "10500 ₽",
       "active": true
