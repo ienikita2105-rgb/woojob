@@ -592,7 +592,7 @@ function mergeOffer(defaults, vacancy) {
 function loadOffers() {
   const result = [];
   const links = loadPartnerLinks();
-  const seenIds = { pampadu: new Set(), lovko: new Set() };
+  const seenIds = { pampadu: new Set(), lovko: new Set(), leads: new Set() };
 
   if (!fs.existsSync(OFFERS_DIR)) {
     console.warn("⚠️  Папка offers/ не найдена — вакансии не будут загружены.");
