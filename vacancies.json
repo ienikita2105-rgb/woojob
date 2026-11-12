@@ -2606,7 +2606,7 @@
       ]
     },
     {
-      "slug": "serpukhov",
+      "slug": "serpuhov",
       "name": "Серпухов",
       "aliases": [
         "серпухов"
@@ -3333,6 +3333,13 @@
       "aliases": [
         "собинка"
       ]
+    },
+    {
+      "slug": "serpukhov",
+      "name": "Серпухов",
+      "aliases": [
+        "серпухов"
+      ]
     }
   ],
   "regions": [
@@ -3676,7 +3683,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "500 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "delovye-linii-gruzchik-yuzhnye-vrata",
@@ -3737,7 +3744,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "500 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "dixy-magazin-moskva",
@@ -3793,7 +3800,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "500 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "dixy-magazin-spb",
@@ -3849,7 +3856,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "500 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "dixy-magazin-mo",
@@ -3952,7 +3959,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "500 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "dixy-magazin-lo",
@@ -4021,7 +4028,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "500 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "dixy-magazin-bryansk",
@@ -4083,7 +4090,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "500 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "dixy-magazin-vladimir",
@@ -4147,7 +4154,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "500 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "dixy-magazin-ivanovo",
@@ -4208,7 +4215,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "500 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "dixy-magazin-kaluga",
@@ -4273,7 +4280,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "500 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "dixy-magazin-kostroma",
@@ -4331,7 +4338,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "500 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "dixy-magazin-novgorod",
@@ -4391,7 +4398,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "500 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "dixy-magazin-orel",
@@ -4450,7 +4457,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "500 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "dixy-magazin-pskov",
@@ -4509,7 +4516,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "500 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "dixy-magazin-ryazan",
@@ -4571,7 +4578,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "500 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "dixy-magazin-smolensk",
@@ -4633,7 +4640,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "500 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "dixy-magazin-tver",
@@ -4696,7 +4703,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "500 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "dixy-magazin-tula",
@@ -4761,7 +4768,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "500 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "dixy-magazin-yaroslavl",
@@ -4824,7 +4831,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "500 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "dixy-magazin-voronezh",
@@ -4886,7 +4893,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "500 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "dixy-sklad-vskhody-komplektovshchik",
@@ -4948,7 +4955,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "600 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "dixy-sklad-vskhody-shtabeler",
@@ -5012,7 +5019,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "600 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "dixy-sklad-vskhody-expeditor",
@@ -5096,7 +5103,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "600 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "dixy-sklad-vskhody-shtabeler-vahta",
@@ -5171,7 +5178,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "600 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "dixy-sklad-vskhody-komplektovshchik-vahta",
@@ -5244,7 +5251,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "600 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "dixy-sklad-vnukovo-expeditor",
@@ -5332,7 +5339,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "600 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "dixy-sklad-vnukovo-shtabeler-vahta",
@@ -5408,7 +5415,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "600 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "dixy-sklad-vnukovo-komplektovshchik-vahta",
@@ -5482,7 +5489,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "600 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "dixy-sklad-severny-shtabeler",
@@ -5546,7 +5553,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "600 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "dixy-sklad-severny-shtabeler-vahta",
@@ -5627,7 +5634,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "600 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "dixy-sklad-severny-komplektovshchik-vahta",
@@ -5706,7 +5713,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "600 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "dixy-sklad-severny-expeditor",
@@ -5800,7 +5807,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "600 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "dixy-sklad-shushary-komplektovshchik",
@@ -5858,7 +5865,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "600 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "dixy-sklad-shushary-komplektovshchik-vahta",
@@ -5925,7 +5932,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "600 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "dixy-sklad-shushary-shtabeler",
@@ -5985,7 +5992,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "600 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "dixy-sklad-shushary-shtabeler-vahta",
@@ -6050,7 +6057,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "600 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "dixy-sklad-shushary-expeditor",
@@ -6111,7 +6118,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "600 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "dixy-sklad-shushary-expeditor-vahta",
@@ -6177,7 +6184,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "600 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "lamoda-sklad-moskva",
@@ -6233,7 +6240,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "750 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "magnit-voditel-kurier",
@@ -6306,7 +6313,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "440 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "miratorg-sborschik-solnechnogorsk",
@@ -6365,7 +6372,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "500 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "miratorg-sborschik-kazan",
@@ -6422,7 +6429,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "500 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "miratorg-sborschik-domodedovo",
@@ -6483,7 +6490,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "500 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "ozon-sklad-vatutinki",
@@ -6564,7 +6571,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "450 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "ozon-sklad-grivno",
@@ -6626,7 +6633,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "450 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "ozon-sklad-domodedovo",
@@ -6689,7 +6696,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "450 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "ozon-sklad-horugvino",
@@ -6755,7 +6762,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "450 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "ozon-sklad-zhukovskiy",
@@ -6819,7 +6826,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "450 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "ozon-sklad-pushkino",
@@ -6885,7 +6892,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "450 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "ozon-sklad-noginsk",
@@ -6951,7 +6958,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "450 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "ozon-sklad-istra-petrovskoe",
@@ -7022,7 +7029,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "450 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "ozon-sklad-nikolskoe",
@@ -7086,7 +7093,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "450 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "ozon-sklad-sofino",
@@ -7147,7 +7154,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "450 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "ozon-sklad-bugry",
@@ -7207,7 +7214,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "450 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "ozon-sklad-sofiyskaya",
@@ -7268,7 +7275,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "450 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "ozon-sklad-shosseynaya-shtabeler",
@@ -7330,7 +7337,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "450 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "ozon-sklad-kemerovo",
@@ -7386,7 +7393,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "450 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "ozon-sklad-kazan",
@@ -7446,7 +7453,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "450 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "ozon-sklad-chapaevsk",
@@ -7506,7 +7513,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "450 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "ozon-sklad-krasnoyarsk-starcevo",
@@ -7564,7 +7571,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "450 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "ozon-sklad-artem",
@@ -7622,7 +7629,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "450 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "ozon-sklad-vladivostok-zapadnyy",
@@ -7680,7 +7687,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "450 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "ozon-sklad-volgograd",
@@ -7738,7 +7745,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "450 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "ozon-sklad-dzerzhinsk",
@@ -7798,7 +7805,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "450 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "ozon-sklad-mahachkala",
@@ -7857,7 +7864,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "450 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "ozon-sklad-nevinnomyssk",
@@ -7917,7 +7924,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "450 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "ozon-sklad-novosibirsk",
@@ -7979,7 +7986,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "450 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "ozon-sklad-tver-borovlevo",
@@ -8038,7 +8045,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "450 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "ozon-sklad-habarovsk",
@@ -8097,7 +8104,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "450 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "ozon-sklad-habarovsk-specialist",
@@ -8156,7 +8163,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "450 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "ozon-sklad-yaroslavl",
@@ -8216,7 +8223,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "450 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "ozon-sklad-rostov-na-donu",
@@ -8278,7 +8285,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "450 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "ozon-sklad-rostov-na-donu-specialist",
@@ -8340,7 +8347,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "450 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "ozon-sklad-voronezh-specialist",
@@ -8399,7 +8406,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "450 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "ozon-voditel-vakhta-avto-kompanii",
@@ -8458,7 +8465,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "500 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "ozon-voditel-vakhta-lichnoe-avto",
@@ -8517,7 +8524,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "500 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "ozon-voditel-pargolovo",
@@ -8574,7 +8581,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "500 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "ozon-voditel-novosibirsk",
@@ -8634,7 +8641,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "500 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "ozon-voditel-habarovsk",
@@ -8694,7 +8701,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "500 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "ozon-voditel-pushkino",
@@ -8754,7 +8761,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "500 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "perekrestok-mytischi-kladovschik",
@@ -8825,7 +8832,7 @@
       "partnerUrl": null,
       "partnerType": "hired",
       "partnerReward": "10500 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "perekrestok-mytischi-shtabeler",
@@ -8899,7 +8906,7 @@
       "partnerUrl": null,
       "partnerType": "hired",
       "partnerReward": "10500 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "perekrestok-solnechnogorsk-kladovschik",
@@ -8988,7 +8995,7 @@
       "partnerUrl": null,
       "partnerType": "hired",
       "partnerReward": "10500 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "perekrestok-solnechnogorsk-shtabeler",
@@ -9080,7 +9087,7 @@
       "partnerUrl": null,
       "partnerType": "hired",
       "partnerReward": "10500 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "perekrestok-ramenskoe-kladovschik",
@@ -9160,7 +9167,7 @@
       "partnerUrl": null,
       "partnerType": "hired",
       "partnerReward": "10500 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "perekrestok-ramenskoe-shtabeler",
@@ -9243,7 +9250,7 @@
       "partnerUrl": null,
       "partnerType": "hired",
       "partnerReward": "10500 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "pyaterochka-rc-volgograd",
@@ -11938,7 +11945,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "500 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "rostics-sotrudnik-mo",
@@ -12024,7 +12031,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "500 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "rostics-sotrudnik-hmao",
@@ -12082,7 +12089,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "500 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "rostics-sotrudnik-amur",
@@ -12140,7 +12147,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "500 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "samokat-kurier",
@@ -12276,7 +12283,7 @@
       "partnerUrl": null,
       "partnerType": "click",
       "partnerReward": "6000 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "vkusvill-roznica-avtokurer",
@@ -12450,7 +12457,7 @@
       "partnerUrl": null,
       "partnerType": "click",
       "partnerReward": "6000 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "vkusvill-roznica-velo",
@@ -12527,7 +12534,7 @@
       "partnerUrl": null,
       "partnerType": "click",
       "partnerReward": "6000 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "vkusvill-roznica-pesh",
@@ -12599,7 +12606,7 @@
       "partnerUrl": null,
       "partnerType": "click",
       "partnerReward": "6000 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "vkusvill-dostavka-velo",
@@ -12722,7 +12729,7 @@
       "partnerUrl": null,
       "partnerType": "click",
       "partnerReward": "5000 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "vkusvill-dostavka-avto",
@@ -12878,7 +12885,7 @@
       "partnerUrl": null,
       "partnerType": "click",
       "partnerReward": "5000 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "vostok-zapad-spb-komplektovshchik-vahta",
@@ -12938,7 +12945,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "500 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "vostok-zapad-spb-voditel-vahta",
@@ -12999,7 +13006,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "500 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "vostok-zapad-spb-komplektovshchik-smena",
@@ -13055,7 +13062,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "500 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "vostok-zapad-spb-voditel-smena",
@@ -13113,7 +13120,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "500 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "vostok-zapad-msk-komplektovshchik-vahta",
@@ -13178,7 +13185,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "500 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "vostok-zapad-msk-voditel-vahta",
@@ -13245,7 +13252,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "500 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "vostok-zapad-msk-komplektovshchik-smena",
@@ -13301,7 +13308,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "500 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "vostok-zapad-msk-voditel-smena",
@@ -13359,7 +13366,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "500 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "vostok-zapad-noginsk-komplektovshchik-vahta",
@@ -13424,7 +13431,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "500 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "vostok-zapad-noginsk-voditel-vahta",
@@ -13491,7 +13498,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "500 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "vostok-zapad-noginsk-komplektovshchik-smena",
@@ -13553,7 +13560,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "500 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "vostok-zapad-noginsk-voditel-smena",
@@ -13617,7 +13624,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "500 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "vostok-zapad-noginsk-gruzchik-smena",
@@ -13679,7 +13686,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "500 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "vostok-zapad-himki-komplektovshchik-vahta",
@@ -13744,7 +13751,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "500 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "vostok-zapad-himki-voditel-vahta",
@@ -13811,7 +13818,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "500 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "vostok-zapad-himki-gruzchik-vahta",
@@ -13876,7 +13883,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "500 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "vostok-zapad-himki-komplektovshchik-smena",
@@ -13933,7 +13940,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "500 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "vostok-zapad-himki-voditel-smena",
@@ -13992,7 +13999,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "500 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "vostok-zapad-himki-gruzchik-smena",
@@ -14049,7 +14056,7 @@
       "partnerUrl": null,
       "partnerType": "lead",
       "partnerReward": "500 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "voxys-operator-call-centra-office",
@@ -14114,7 +14121,7 @@
       "partnerUrl": null,
       "partnerType": "hired",
       "partnerReward": "7500 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "voxys-operator-call-centra-remote",
@@ -14199,7 +14206,7 @@
       "partnerUrl": null,
       "partnerType": "hired",
       "partnerReward": "7500 ₽",
-      "active": true
+      "active": false
     },
     {
       "id": "x5-dostavka-sborschik",

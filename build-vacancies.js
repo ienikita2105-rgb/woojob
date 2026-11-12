@@ -3,6 +3,7 @@
 // Запуск: node build-vacancies.js
 // Вакансии берутся из папки offers/<platform>/*.json
 // Партнёрские ссылки — из папки links/<platform>.json
+// Видимость вакансий — из visibility.json
 
 "use strict";
 
@@ -382,7 +383,7 @@ const CITIES_RAW = {
   "ruza": ["Руза", ["руза"]],
   "sverdlovskiy": ["Свердловский", ["свердловский"]],
   "sergiev-posad": ["Сергиев Посад", ["сергиев посад"]],
-  "serpukhov": ["Серпухов", ["серпухов"]],
+  "serpuhov": ["Серпухов", ["серпухов"]],
   "stupino": ["Ступино", ["ступино"]],
   "trehgorka": ["Трехгорка", ["трехгорка"]],
   "troick": ["Троицк", ["троицк"]],
@@ -486,7 +487,8 @@ const CITIES_RAW = {
   "mogilev": ["Могилёв", ["могилёв", "могилев"]],
   "nefteyugansk": ["Нефтеюганск", ["нефтеюганск"]],
   "nizhniy-tagil": ["Нижний Тагил", ["нижний тагил"]],
-  "sobinka": ["Собинка", ["собинка"]]
+  "sobinka": ["Собинка", ["собинка"]],
+  "serpukhov": ["Серпухов", ["серпухов"]]
 };
 
 // ==========================================
@@ -550,12 +552,39 @@ function baseVacancy(overrides) {
 }
 
 // ==========================================
+// ВИДИМОСТЬ ВАКАНСИЙ (visibility.json)
+// ==========================================
+const VISIBILITY_FILE = path.join(__dirname, "visibility.json");
+
+function loadVisibility() {
+  const defaults = {
+    hideWithoutPartnerUrl: false,
+    hideOffers: [],
+    hideVacancies: [],
+    showOffers: []
+  };
+  if (!fs.existsSync(VISIBILITY_FILE)) return defaults;
+  try {
+    const raw = JSON.parse(fs.readFileSync(VISIBILITY_FILE, "utf8"));
+    return {
+      hideWithoutPartnerUrl: raw.hideWithoutPartnerUrl === true,
+      hideOffers: Array.isArray(raw.hideOffers) ? raw.hideOffers : [],
+      hideVacancies: Array.isArray(raw.hideVacancies) ? raw.hideVacancies : [],
+      showOffers: Array.isArray(raw.showOffers) ? raw.showOffers : []
+    };
+  } catch (e) {
+    console.error("❌ visibility.json: невалидный JSON —", e.message);
+    return defaults;
+  }
+}
+
+// ==========================================
 // ЗАГРУЗКА ПАРТНЁРСКИХ ССЫЛОК ИЗ links/
 // ==========================================
 const LINKS_DIR = path.join(__dirname, "links");
 
 function loadPartnerLinks() {
-  const result = { pampadu: {}, lovko: {} };
+  const result = { pampadu: {}, lovko: {}, leads: {} };
   if (!fs.existsSync(LINKS_DIR)) return result;
 
   for (const platform of ["pampadu", "lovko", "leads"]) {
@@ -592,6 +621,7 @@ function mergeOffer(defaults, vacancy) {
 function loadOffers() {
   const result = [];
   const links = loadPartnerLinks();
+  const visibility = loadVisibility();
   const seenIds = { pampadu: new Set(), lovko: new Set(), leads: new Set() };
 
   if (!fs.existsSync(OFFERS_DIR)) {
@@ -621,6 +651,13 @@ function loadOffers() {
         continue;
       }
       const defaults = raw.defaults || {};
+      const offerKey = `${platform}/${file.replace(".json", "")}`;
+      const hideByOffer = visibility.hideOffers.includes(platform) ||
+                          visibility.hideOffers.includes(offerKey);
+      const showOnly = visibility.showOffers.length > 0 &&
+                       !visibility.showOffers.includes(platform) &&
+                       !visibility.showOffers.includes(offerKey);
+
       raw.vacancies.forEach(v => {
         if (!v.id || !v.position) {
           console.error(`❌ ${filePath}: пропущена вакансия без id/position`);
@@ -630,9 +667,12 @@ function loadOffers() {
         seen.add(v.id);
         const link = platformLinks[v.id] || {};
         const merged = mergeOffer(defaults, v);
+        const finalPartnerUrl = link.partnerUrl || null;
+        const hideById = visibility.hideVacancies.includes(v.id);
+        const hideWithoutUrl = visibility.hideWithoutPartnerUrl && !finalPartnerUrl;
 
         result.push(baseVacancy({
-          source: raw.source || (platform === "pampadu" ? "Pampadu" : "Lovko"),
+          source: raw.source || (platform === "pampadu" ? "Pampadu" : platform === "leads" ? "Leads" : "Lovko"),
           company: raw.company,
           logo: raw.logo || "",
           partnerType: raw.partnerType || "click",
@@ -640,7 +680,8 @@ function loadOffers() {
           ...merged,
           ...(link.partnerUrl ? { partnerUrl: link.partnerUrl } : {}),
           ...(link.partnerType ? { partnerType: link.partnerType } : {}),
-          ...(link.partnerReward ? { partnerReward: link.partnerReward } : {})
+          ...(link.partnerReward ? { partnerReward: link.partnerReward } : {}),
+          active: !(hideByOffer || hideById || showOnly || hideWithoutUrl)
         }));
       });
     }
@@ -715,9 +756,13 @@ function writeJson() {
     console.log("✅ Все id уникальны.");
   }
 
+  const activeCount = data.vacancies.filter(v => v.active !== false).length;
+  const hiddenCount = data.vacancies.length - activeCount;
+
   const outPath = path.join(__dirname, "vacancies.json");
   fs.writeFileSync(outPath, JSON.stringify(data, null, 2), "utf8");
   console.log(`✅ Записано ${data.vacancies.length} вакансий в ${outPath}`);
+  console.log(`   активных: ${activeCount}, скрытых: ${hiddenCount}`);
   console.log(`✅ Городов в справочнике: ${cities.length}`);
   console.log(`✅ Регионов: ${data.regions.length}`);
 }
