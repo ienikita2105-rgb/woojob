@@ -558,7 +558,7 @@ function loadPartnerLinks() {
   const result = { pampadu: {}, lovko: {} };
   if (!fs.existsSync(LINKS_DIR)) return result;
 
-  for (const platform of ["pampadu", "lovko"]) {
+  for (const platform of ["pampadu", "lovko", "leads"]) {
     const filePath = path.join(LINKS_DIR, `${platform}.json`);
     if (!fs.existsSync(filePath)) continue;
     try {
@@ -599,7 +599,7 @@ function loadOffers() {
     return result;
   }
 
-  for (const platform of ["lovko", "pampadu"]) {
+  for (const platform of ["lovko", "pampadu", "leads"]) {
     const platformDir = path.join(OFFERS_DIR, platform);
     if (!fs.existsSync(platformDir)) continue;
 

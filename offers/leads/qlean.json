@@ -1,0 +1,36 @@
+{
+  "source": "Leads",
+  "company": "Qlean",
+  "logo": "images/qlean.png",
+  "partnerType": "hired",
+  "partnerReward": "2400 ₽",
+  "defaults": {
+    "prof": "Клининг",
+    "details": "Уборка квартир через сервис Qlean. Гибкий график, оплата за заказ.",
+    "exp": "Без опыта",
+    "format": "Подработка",
+    "schedule": "Гибкий",
+    "tags": ["noExperience", "cleaning", "partTime"],
+    "citizenship": "rf",
+    "requirements": ["Гражданство РФ", "Возраст от 18 лет"],
+    "pop": 70
+  },
+  "vacancies": [
+    {
+      "id": "qlean-klininger-moskva",
+      "position": "Клинер (Москва)",
+      "cities": ["moskva"],
+      "salaryTo": 120000,
+      "salaryNote": "до 120 000 ₽/мес",
+      "partnerUrl": null
+    },
+    {
+      "id": "qlean-klininger-spb",
+      "position": "Клинер (Санкт-Петербург)",
+      "cities": ["sankt-peterburg"],
+      "salaryTo": 100000,
+      "salaryNote": "до 100 000 ₽/мес",
+      "partnerUrl": null
+    }
+  ]
+}
